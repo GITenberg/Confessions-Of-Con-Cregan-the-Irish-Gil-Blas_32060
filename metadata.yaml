@@ -29,6 +29,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Charles_Lever
 description: Satirical reflections on author's experiences in the American continent,
   specifically in Canada and Mexico.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32060#Confessions-Of-Con-Cregan-the-Irish-Gil-Blas
 gutenberg_issued: '2010-04-19'
 gutenberg_type: Text
 identifiers:
