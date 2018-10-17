@@ -1,9 +1,10 @@
+
 Project Gutenberg's Confessions Of Con Cregan, by Charles James Lever
 
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
+This eBook is for the use of anyone anywhere at no cost and with almost
+no restrictions whatsoever. You may copy it, give it away or re-use
+it under the terms of the Project Gutenberg License included with this
+eBook or online at www.gutenberg.org
 
 
 Title: Confessions Of Con Cregan
@@ -14,6 +15,7 @@ Author: Charles James Lever
 Illustrator: Phiz.
 
 Release Date: April 19, 2010 [EBook #32060]
+Last Updated: May 7, 2016
 
 Language: English
 
@@ -23,23 +25,99 @@ Character set encoding: ISO-8859-1
 
 
 
-
 Produced by David Widger
 
 
 
+_CONFESSIONS OF_
 
+CON CREGAN
 
-CONFESSIONS OF CON CREGAN
+ _An Irish Gil Blas_
 
-An Irish Gil Blas
 
 By Charles Lever
 
+
 With Illustrations by Phiz.
+
 
 Boston: Little, Brown, And Company. 1913
 
+
+
+CONTENTS
+
+
+PREFACE.
+
+CHAPTER I.   A PEEP AT MY FATHER
+
+CHAPTER II.   ANOTHER PEEP AT MY FATHER
+
+CHAPTER III.   A FIRST STEP ON LIFE'S LADDER
+
+CHAPTER IV.   HOW I ENTERED COLLEGE, AND HOW I LEFT IT
+
+CHAPTER V.   A PEEP AT "HIGH AND LOW COMPANY"
+
+CHAPTER VI.   VIEWS OF LIFE
+
+CHAPTER VII.   A BOLD STROKE FOR AN OPENING IN THE WORLD
+
+CHAPTER VIII.   A QUIET CHOP AT 'KILLEEN'S'
+
+CHAPTER IX.   SIR DUDLEY BROUGHTON
+
+CHAPTER X.   THE VOYAGE OUT
+
+CHAPTER XI.   MEANS AND MEDITATIONS
+
+CHAPTER XII.   A GLIMPSE OF ANOTHER OPENING IN LIFE
+
+CHAPTER XIII.   QUEBEC
+
+CHAPTER XIV.   FELL IN AND OUT WITH THE WIDOW DAVIS
+
+CHAPTER XV.   AN EMIGRANTS FIRST STEP ON SHORE
+
+CHAPTER XVI.   A NIGHT IN THE LOWER TOWN
+
+CHAPTER XVII.   MY LUCUBRATIONS ON THE ST. LAWRENCE
+
+CHAPTER XVIII.   THE ORDINARY OF ALL NATIONS
+
+CHAPTER XIX.   ON BOARD THE 'CHRISTOBAL'
+
+CHAPTER XX.   THE LOG-HUT AT BRAZOS
+
+CHAPTER XXI.   A NIGHT IN THE FOREST OF TEXAS
+
+CHAPTER XXII.   THE LAZARETTO OF BEXAR
+
+CHAPTER XXIII.   THE PLACER
+
+CHAPTER XXIV.   THE FATE OF A GAMBUSINO
+
+CHAPTER XXV.   LA SEÑHORA
+
+CHAPTER XXVI.   THE DISCOVERY
+
+CHAPTER XXVII.   GUAJUAQUALLA
+
+CHAPTER XXVIII.   THE VOYAGE OF THE 'ACADIE'
+
+CHAPTER XXIX.   THE CARCEL MORENA AT MALAGA
+
+CHAPTER XXX.   CONSOLATIONS OF DIPLOMACY
+
+CHAPTER XXXI.   A NEW WALK IN PROGRESSIVE LIFE
+
+CHAPTER XXXII.   MOI ET MON PRINCE
+
+CHAPTER XXXIII.     A SOIRÉE IN THE GREAT WORLD
+
+CHAPTER XXXIV.   CONCLUSION
 
 
 
@@ -112,7 +190,7 @@ discovered in "Con Cregan" a freshness and a vigor which were so sadly
 deficient in "The Daltons." It was, they averred, the work of a less
 practised writer, but of one whose humor was more subtle, and whose
 portraits, roughly sketched as they were, indicated a far higher power
-than the well-known author of "Harry Lorre-quer."
+than the well-known author of "Harry Lorrequer."
 
 The unknown--for there was no attempt to guess him--was pronounced not
 to be an imitator of Mr. Lever, though there were certain small points
@@ -235,7 +313,6 @@ I have already owned that I bore a grudge to the story as I wrote it;
 nor have I outlived the memory of the chagrin it cost me, though it is
 many a year since I acknowledged that "Con Cregan" was by the author of
 "Harry Lorrequer."
-
 
 
 
@@ -816,7 +893,7 @@ and a reproach to the learned Bench."
 
 "Call the next case, crier," said the judge. "Sit down, Mr. Morissy."
 
-"Your worshipwmay commit me; but I will be heard--"
+"Your worshipw may commit me; but I will be heard--"
 
 "Tipstaff! take that man into--" "When you hear of a mandamus from the
 King's Bench--when you know that a case of compounding a felony--"
@@ -911,7 +988,7 @@ owned!
 
 CHAPTER III. A FIRST STEP ON LIFE'S LADDER
 
-It is amouung the strange and singular anomalies of our nature that
+It is among the strange and singular anomalies of our nature that
 however pleased men may be at the conviction of a noted offender, few
 of those instrumental to his punishment are held in honor and esteem.
 If all Kilbeggan rejoiced, as they did, at my father's downfall, a very
@@ -1135,12 +1212,12 @@ anger and impatience.
 and take off two or three of the scraws, the sods of grass, till he can
 get through, and then steal down on the mare's back; when he 's once on
 her, she 'll never stir head nor foot, and he can slip the bridle over
-hef quite asy."
+her quite asy."
 
 "The boy might be killed; no, no, I 'll not suffer that--"
 
-"Wait, sir," cried I, interrupting, "it's not so hard, after all; once on
-her back, I defy her to throw me."
+"Wait, sir," cried I, interrupting, "it's not so hard, after all; once
+on her back, I defy her to throw me."
 
 "Sure I know that well; sorra better rider in the Meath hunt than little
 Con," broke in Andy; backing me with a ready flattery he thought would
@@ -1169,8 +1246,8 @@ fears for my fate had absorbed every other thought.
 "Are you safe, my boy, quite safe?" he cried, making his way over the
 fallen rubbish.
 
-"Oh! the devil fear him," cried Andy, in a perfect rage of
-passion; "I wish it was his bones was smashed, instead of the
+"Oh! the devil fear him," cried Andy, in a perfect rage of passion;
+"I wish it was his bones was smashed, instead of the
 roof-sticks--see!--Och, murther, only look at this." And Andy stood amid
 the ruins, a most comical picture of affliction, in part real and in
 part assumed. Meanwhile the youth had advanced to my side, and, with
@@ -1270,7 +1347,7 @@ it?"
 highly flattered at the reiteration of the epithet.
 
 Thus chatting, we journeyed along, lightening the way with talk, and
-making the hours seem to me the very plea-santest I had ever passed. At
+making the hours seem to me the very pleasantest I had ever passed. At
 last we came in sight of the steeple of Kinnegad, which lay in the plain
 before us, about a mile distant.
 
@@ -1282,7 +1359,7 @@ most ignobly seated on a dunghill; the most lamentable figure of all
 being an elderly gentleman, who, having cut a summerset through an
 apothecary's window, came forth cut by a hundred small vials, and
 bearing on his person unmistakable evidence of every odor, from
-tar-water to assafot-ida. The conveyance itself lay, like the Ark after
+tar-water to assafotida. The conveyance itself lay, like the Ark after
 the Deluge, quietly reposing on one side; while animals male and female,
 "after their kind," issued from within. Limping and disconsolate figures
 were being assisted into the inn; and black eyes and smashed faces were
@@ -1344,12 +1421,12 @@ and rather as though reflecting on my words than addressing me.
 
 "So I intend, sir," replied I, confidently.
 
-"Have you ever read 'Gil Bias,' Con?"
+"Have you ever read 'Gil Blas,' Con?"
 
 "I have it almost by heart, sir."
 
 "That's it!" said he, laughing; "I see whence you've got your taste for
-adventure. But remember, Con, Gil Bias lived in different times from
+adventure. But remember, Con, Gil Blas lived in different times from
 ours, and in a very different land. He was, besides, a well-educated
 fellow, with no small share of good looks and good manners."
 
@@ -1387,7 +1464,7 @@ aspect was a sad damper to the ardor of that enthusiasm which had often
 pictured the great metropolis as some gorgeous fairy-land.
 
 The carriage stopped twice, to set down two of the travellers, in
-obscure dingy streets, and then I heard Mr. Lynd-say say, "To the
+obscure dingy streets, and then I heard Mr. Lyndsay say, "To the
 College;" and on we went through a long labyrinth of narrow lanes and
 thoroughfares, which gradually widened out into more spacious streets,
 and at length arrived at a great building, whose massive gates slowly
@@ -1410,7 +1487,7 @@ he had to bargain and reason and remonstrate, submitting to many a
 mortification, and enduring many a sore pang, at the pitiless ribaldry
 which knows nothing so contemptible as poverty; at last, after various
 reflections on the presumption of people who travel and cannot afford
-it, on their vanity, self-conceit, And so forth, the fellow departed,
+it, on their vanity, self-conceit, and so forth, the fellow departed,
 with what my ears assured me was no contemptible share of my poor
 master's purse.
 
@@ -1635,8 +1712,8 @@ was borne along for some yards at a brisk pace. I was already about
 to forbear my struggles, and suffer them to play their--as I deemed
 it--harmless joke in quiet, when straight in front of me I saw an
 enormous pump, at which, and by a double handle, Burton and another were
-working away like sailors on a wreck; throwing forth-, above a yard off,
-a jet of water almost enough to turn a mill.
+working away like sailors on a wreck; throwing forth above a yard off, a
+jet of water almost enough to turn a mill.
 
 The whole plot now revealed itself to me at once, and I commenced a
 series of kickings and plungings that almost left me free. My enemies,
@@ -1647,7 +1724,7 @@ head, face, chest, and legs,--for, with a most laudable impartiality,
 they moved me from side to side till not a dry spot remained on my whole
 body.
 
-[Illustration:    0060]
+
 
 I shouted, I yelled, I swore, and screamed for aid, but all in vain; and
 my diabolical tormentors seemed to feel no touch of weariness in their
@@ -1691,7 +1768,7 @@ that was to convey him to Van Diemen's Land; and thither I accordingly
 repaired, not to enter, but simply to gaze, with a very awestruck
 imagination, upon that double-barred cage of human ferocity and crime.
 
-In itself the circumstance has nothing worthy of record nor should I
+In itself the circumstance has nothing worthy of record, nor should I
 mention it, save that to the deep impression of that morning do I owe a
 certain shrinking horror of all great crime; that impression has been of
 incalculable benefit to me through life.
@@ -1719,7 +1796,7 @@ Merrion Square on the same afternoon of my expulsion from Trinity and
 visit to Newgate.
 
 There were brilliant equipages, cavaliers, and ladies on horseback;
-handsome bouses, with balconies often thronged by attractive-looking
+handsome houses, with balconies often thronged by attractive-looking
 occupants; and vast crowds of gayly dressed persons promenaded within
 the square itself, where a military band performed; in fact, there was
 more than enough to interest and amuse one of higher pretensions in the
@@ -1898,7 +1975,7 @@ other gangs had arrived, and were exchanging recognitions.
 passed. "The Polis was here a while ago, and took up 'Danny White,' and
 threatened to break up the whole establishment."
 
-"The devil a thing at all they'll lave us of our institu-shuns," said a
+"The devil a thing at all they'll lave us of our institushuns," said a
 bow-legged little blackguard, with the 'Evening Freeman' written round
 his hat; for he was an attaché of that journal.
 
@@ -1943,7 +2020,7 @@ Betty.
 
 "Con Cregan, of Kilbeggan," said I, boldly.
 
-"Success to ye, ma bouchai!" said the old hag; "and so you 're a son of
+"Success to ye, ma bouchal!" said the old hag; "and so you 're a son of
 Con the informer." She looked sternly at me for a few seconds, and then,
 in a slower and more deliberate tone, added, "I 'm forty years, last
 Lady Day, living this way, and keepin' company with all sorts of
@@ -2227,16 +2304,16 @@ performance of a part which I deemed easy to assume. The result soon
 began to tell. I felt a degree of contemptuous hatred for the very
 persons I had once revered as almost demigods. I no longer looked up to
 the "gentleman" as such by right divine, but by accident; and I fostered
-the feeling by the writings of every radical newspaper I could come at.
-All the levelling doctrines of socialism, all the plausibilities of
-equality, became as great truths to me; and I found a most ready
+the feeling by the writings of every radical newspaper I could come
+at. All the levelling doctrines of socialism, all the plausibilities
+of equality, became as great truths to me; and I found a most ready
 aptitude in my mind to square the fruits of my personal observation to
 these pleasant theories. The one question recurred every morning as I
-arose, and remained unanswered each night as I lay down, "Why should I
-hold a horse, and why should another man ride one?" I suppose the
+arose, and remained unanswered each night as I lay down, "Why should
+I hold a horse, and why should another man ride one?" I suppose the
 difficulty has puzzled wiser heads; indeed, since I mooted it to myself,
 it has caused some trouble in the world; nor, writing now as I do in the
-year of grace ''8, do I suppose the question is yet answered.
+year of grace '48, do I suppose the question is yet answered.
 
 I have dwelt perhaps too long on this exposition of my feelings; but
 as my subsequent life was one of far more action than reflection, the
@@ -2439,8 +2516,8 @@ advisable of the two. A third course soon suggested itself, doubtless
 inspired by that most mischief-working adage which says that one may be
 "as well hanged for the sheep as the lamb."
 
-I therefore voted for the "larger animal;" and to satisfy myself that I
-was honest to my own convictions, I immediately proceeded to act upon
+I therefore voted for the "larger animal;" and to satisfy myself that
+I was honest to my own convictions, I immediately proceeded to act upon
 them. I led the mare quietly along to the angle of the Square, and then,
 turning into the next street, I shortened the stirrups, mounted, and
 rode off.
@@ -2529,8 +2606,8 @@ mischance.
 
 "The race is sold!" cried one.
 
-"Beatagh"--this was the rider--"pulled her round himself! the mare
-never was known to refuse a fence!"
+"Beatagh"--this was the rider--"pulled her round himself! the mare never
+was known to refuse a fence!"
 
 "I say you're both wrong!" cried a third, whose excited manner showed
 he was no indifferent spectator of the scene. "She never will take her
@@ -2547,13 +2624,13 @@ steeplechase."
 "Devilish well mounted he is, too!" remarked some one else.
 
 "Hallo, my smart boy!" said he who before alluded to the mare as a
-bolter, "try your nag over that wall yonder,--go boldly. Let her have her
-head, and give her a sharp cut as she rises. Make way there, gentlemen!
-Let the boy have fair play, and I 'll wager a five-pound note he does
-it! You shall have half the stakes too, if you win!" added he. These
-were the last words I heard; for the crowd, clearing in front, opened
-for me to advance, and without a moment's hesitation of any kind, I
-dashed my heels to the mare's flanks, and galloped forward. A loud
+bolter, "try your nag over that wall yonder,--go boldly. Let her
+have her head, and give her a sharp cut as she rises. Make way there,
+gentlemen! Let the boy have fair play, and I 'll wager a five-pound note
+he does it! You shall have half the stakes too, if you win!" added he.
+These were the last words I heard; for the crowd, clearing in front,
+opened for me to advance, and without a moment's hesitation of any kind,
+I dashed my heels to the mare's flanks, and galloped forward. A loud
 shout, and a perfect shower of whips on the mare's quarter from
 the bystanders, put all question of pulling up beyond the reach of
 possibility. In a minute more I was at the wall, and, ere I well knew,
@@ -2562,7 +2639,7 @@ my lad! You've earned twenty guineas if I win the race! Lead the way a
 bit, and let your mare choose her ground when she leaps." This was all
 he said; but such words of encouragement never fell on my ears before.
 
-[Illustration:   0089]
+
 
 Before us were the others, now reduced to three in number, and evidently
 holding their stride and watching each other, never for a moment
@@ -2597,10 +2674,10 @@ that in my momentary triumph I actually forgot all the dangers and
 perils of my offence.
 
 It is a great occasion for rejoicing among the men of rags and
-wretchedness when a member of their own order has achieved anything like
-fame. The assertion of their ability to enter the lists with "their
-betters" is the very pleasantest of all flatteries. It is, so to say, a
-kind of skirmish, before that great battle which, one day or other,
+wretchedness when a member of their own order has achieved anything
+like fame. The assertion of their ability to enter the lists with "their
+betters" is the very pleasantest of all flatteries. It is, so to say,
+a kind of skirmish, before that great battle which, one day or other,
 remains to be fought between the two classes which divide mankind,--
 those who have, and those who have not.
 
@@ -2654,7 +2731,7 @@ devil receave the lodger in the same premises!"
 
 "I see there 's no chance of our being able to settle anything here,"
 said the gentleman. "These good people think the matter more their own
-than ours; so meet to-morrow, my lad^at Dycer's, at twelve o'clock, and
+than ours; so meet to-morrow, my lad, at Dycer's, at twelve o'clock, and
 bring me anything that can speak for your character." As he said these
 few words he brushed the crowd to one side with his whip, and forcing
 his way, with the air of a man who would not be denied, left the place.
@@ -2670,7 +2747,7 @@ the child that a-way,--and he that won the race for him!"
 by his pretentious manner to be a practised street orator. "Will yez
 lave the dissolute orphan--" he meant "desolate"--"to be chayted out
 of his pater money? Are yez men at all? or are yez dirty slaves of the
-bloody 'stokessy' that's murderin' ould Ireland'?"
+bloody 'stokessy that's murderin' ould Ireland'?"
 
 "We'll take charge of the orphan, and of you too, my smart fellow, if
 you don't brush off pretty lively!" said a policeman, as, followed by
@@ -2914,7 +2991,7 @@ He left the room as he spoke, but in a few moments reentered it, saying,
 
 "Then I 'll be there with the note," said I.
 
-[Illustration: 098]
+
 
 He nodded, and walked out. I watched him as he went; but he neither
 spoke to a policeman, nor did he turn his head round to see what became
@@ -2942,7 +3019,8 @@ touching my cap in salute, I walked away.
 
 
 
-CHAPTER VIII. A QUIET CHOP AT 'KILLEEN'S' AND A GLANCE AT A NEW CHARACTER
+CHAPTER VIII. A QUIET CHOP AT 'KILLEEN'S' AND A GLANCE AT A NEW
+CHARACTER
 
 I looked very wistfully at my broad crown piece as it lay with its
 honest platter face in the palm of my hand, and felt, by the stirring
@@ -3014,8 +3092,8 @@ tricked out with sprigs of parsley; the appetizing cold sirloins, so
 beautifully stratified with fat and lean; with hams that might tempt
 a rabbi; not to speak of certain provocative little paragraphs about
 "Ox-tail and Gravy ready at all hours." "Queer world it is," said I;
-"and there are passing at every instant, by tens and twenties, men and
-women and children, famishing and hungry, who see all these things
+"and there are passing at every instant, by tens and twenties, men
+and women and children, famishing and hungry, who see all these things
 separated from them by a pane of window-glass; and yet they only gather
 their rags more closely together, clench their thin lips tighter, and
 move on. Not that alone; but here am I, with means to buy what I want,
@@ -3068,7 +3146,7 @@ for me, just to show the gentleman?"
 
 "Of course," said he, taken possibly by the flattering civility of my
 address; and he stepped into the bar, and soon reappeared with a small
-scrap of paper, with these words: "Dinner and a pint of port, 's.
+scrap of paper, with these words: "Dinner and a pint of port, 4s.
 6d.--paid."
 
 "I'm to wait for him here, sir," said I, most obsequiously.
@@ -3132,16 +3210,14 @@ I had scarcely concealed myself beneath my curtain,--"The Times,"--when
 the mustard was set down before me, with a humble apology for
 forgetfulness. I waited till he withdrew, and then helping myself to the
 unknown delicacy, proceeded to eat it, as the phrase is, "neat." In my
-eagerness,
-
-I swallowed two or three mouthfuls before I felt its effects; and then
-a sensation of burning and choking seized upon me. My tongue seemed to
-swell to thrice its size; my eyes felt as if they would drop out of my
-head; while a tingling sensation, like "frying," in my nostrils, almost
-drove me mad; so that after three or four seconds of silent agony,
-during which I experienced about ten years of torture, unable to endure
-more, I screamed out that "I was poisoned," and, with wide-open mouth
-and staring eyes, ran down the coffee-room.
+eagerness, I swallowed two or three mouthfuls before I felt its effects;
+and then a sensation of burning and choking seized upon me. My tongue
+seemed to swell to thrice its size; my eyes felt as if they would
+drop out of my head; while a tingling sensation, like "frying," in my
+nostrils, almost drove me mad; so that after three or four seconds of
+silent agony, during which I experienced about ten years of torture,
+unable to endure more, I screamed out that "I was poisoned," and, with
+wide-open mouth and staring eyes, ran down the coffee-room.
 
 Never was seen such an uproar! Had an animal from a wild-beast menagerie
 appeared among the company, the consternation could scarce be greater;
@@ -3496,8 +3572,8 @@ discussed, delighted me.
 
 My companion appeared to feel that he had a willing listener, and went
 freely on, canvassing the various roads to success, and with a certain
-air of confidence in all he said that to me seemed quite oracular. "What
-a fellow am I," said he at last, "to discourse in this strain to
+air of confidence in all he said that to me seemed quite oracular.
+"What a fellow am I," said he at last, "to discourse in this strain to
 a street urchin whose highest ambition is to outrun his ragged
 competitors, and be first 'in,' for the sixpence of some cantering
 cornet! Pull ahead, lad, there's the light at last; and hang me if
@@ -3512,11 +3588,9 @@ skiff darted rapidly and steadily through the water.
 
 CHAPTER IX. SIR DUDLEY BROUGHTON
 
-
-
 Steadily, and with all the vigor I could command, I pulled towards
 the light. My companion sat quietly watching the stars, and apparently
-following out som chain of thought to himself; at last he said, "There,
+following out some chain of thought to himself; at last he said, "There,
 boy, breathe a bit; there's no need to blow yourself; we 're all safe
 long since; the 'Firefly' is right ahead of us, and not far off either.
 Have you never heard of the yacht?"
@@ -3530,10 +3604,10 @@ Have you never heard of the yacht?"
 "Well, come," cried he, laughing, "that is consolatory. I 'm not half so
 great a reprobate as I thought myself! I did not believe till now that
 there was an urchin of your stamp living who could not have furnished at
-least some anecdotes for a memoir of me! Well, my lad, yonder, where
-you see the blue light at the peak, is the 'Firefly,' and here, where
-I sit, is Sir Dudley Broughton. Ten minutes more will put us alongside,
-so, if you're not tired, pull away."
+least some anecdotes for a memoir of me! Well, my lad, yonder, where you
+see the blue light at the peak, is the 'Firefly,' and here, where I sit,
+is Sir Dudley Broughton. Ten minutes more will put us alongside, so, if
+you're not tired, pull away."
 
 "No, Sir Dudley," said I, for I was well versed in the popular tact of
 catching up a name quickly, "I am able to row twice as far."
@@ -3641,24 +3715,24 @@ a gentleman commoner of Christ Church, to indulge in every dissipation
 that suited his fancy. An unlimited indulgence, a free command of
 whatever money he asked for, added to a temper constitutionally
 headstrong and impetuous, soon developed what might have been expected
-from the combination. He led a life of wild insubordination
-at school, and was expelled from Oxford. With faculties above rather
-than beneath mediocrity, and a certain aptitude for acquiring the
-knowledge most in request in society, he had the reputation of being one
-who, if he had not unhappily so addicted himself to dissipation, would
-have made a favorable figure in the world. After trying in vain to
-interest himself in the pursuits of a country life, of which the
-sporting was the only thing he found attractive, he joined a well-known
-light cavalry regiment, celebrated for numbering among its officers more
-fast men than any other corps in the service. His father, dying about
-the same time, left him in possession of a large fortune, which, with
-all his extravagance, was but slightly encumbered. This fact, coupled
-with his well-known reputation, made him popular with his brother
-officers, most of whom, having run through nearly all they possessed,
-saw with pleasure a new Croesus arrive in the regiment. Such a man as
-Broughton was just wanted. One had a charger to get off; another wanted
-a purchaser for his four-in-hand drag. The senior captain was skilful at
-billiards; and every one played "lansquenet" and hazard.
+from the combination. He led a life of wild insubordination at school,
+and was expelled from Oxford. With faculties above rather than beneath
+mediocrity, and a certain aptitude for acquiring the knowledge most in
+request in society, he had the reputation of being one who, if he had
+not unhappily so addicted himself to dissipation, would have made a
+favorable figure in the world. After trying in vain to interest himself
+in the pursuits of a country life, of which the sporting was the
+only thing he found attractive, he joined a well-known light cavalry
+regiment, celebrated for numbering among its officers more fast men than
+any other corps in the service. His father, dying about the same
+time, left him in possession of a large fortune, which, with all his
+extravagance, was but slightly encumbered. This fact, coupled with his
+well-known reputation, made him popular with his brother officers, most
+of whom, having run through nearly all they possessed, saw with pleasure
+a new Croesus arrive in the regiment. Such a man as Broughton was just
+wanted. One had a charger to get off; another wanted a purchaser for
+his four-in-hand drag. The senior captain was skilful at billiards; and
+every one played "lansquenet" and hazard.
 
 Besides various schemes against his purse, the colonel had a still
 more serious one against his person. He had a daughter, a handsome,
@@ -3742,8 +3816,7 @@ Lounging men at club doors looked knowingly at each other as they joked
 together in half sentences, "No affair of mine; but I did not think
 Broughton would have been caught so easily." "Yes, by Jove!" cried
 another, with a jockey-like style of dress, "he 'd not have made so
-great a mistake on the 'Oaks' as to run an aged nag for a two-year
-old!"
+great a mistake on the 'Oaks' as to run an aged nag for a two-year old!"
 
 "I wonder he never heard of that Russian fellow!" said a third.
 
@@ -3777,7 +3850,7 @@ James would send him the epergne they had designed for a czar. And so
 he lived. With rocks and breakers ahead, he only "carried on" the faster
 and the freer.
 
-[Illustration: 122]
+
 
 Not that he knew, indeed, the extent, or anything approaching the
 extent, to which his fortune was wrecked. All that he could surmise on
@@ -3853,7 +3926,7 @@ soon convinced the hearer that something serious was in the wind.
 
 "What's the matter, man? You look as if Cardinal was dead lame."
 
-"Sir Dudley, you must start from this at once. Holds-worth has taken
+"Sir Dudley, you must start from this at once. Holdsworth has taken
 proceedings on the bills; Lord Corthern has foreclosed; the whole body
 of the creditors are up; and you 'll be arrested before you leave the
 field!"
@@ -3877,8 +3950,8 @@ arrangement."
 I have a tremendous book. Do you know how many thousands I stand to win
 here?"
 
-"To lose, you mean," said the solicitor. "You 're sold!" The words were
-whispered so low as to be almost inaudible; but Broughton actually
+"To lose, you mean," said the solicitor. "You 're sold!" The words
+were whispered so low as to be almost inaudible; but Broughton actually
 staggered as he heard them.
 
 "Sold! how? what? Impossible, man! Who could sell me?"
@@ -4010,7 +4083,7 @@ shoulders. "The carriage is ready;" and with these words, spoken with
 perfect calm, he presented his arm and led her from the room.
 
 To return to Sir Dudley. On arriving at the Russian Embassy, he could
-learn nothing of the whereabouts of him besought; a young secretary,
+learn nothing of the whereabouts of him he sought; a young secretary,
 however, with whom he had some intimacy, drawing him to one side,
 whispered, "Wait here a moment; I have a strange revelation to make
 you,--but in confidence, remember, for it must not get abroad." The
@@ -4045,10 +4118,10 @@ Lombard Street."
 
 "Be calm; don't make any resistance," whispered Taperton in his ear;
 "come upstairs." They passed on, and entered the drawing-room, where
-everything appeared in disorder. As for Broughton, he was bewildered and
-stupefied by all he had gone through, and sat in a chair staring
-vacantly at the groups around him, evidently unable, through the haze of
-his disordered faculties, to see clearly how, and in what, he was
+everything appeared in disorder. As for Broughton, he was bewildered
+and stupefied by all he had gone through, and sat in a chair staring
+vacantly at the groups around him, evidently unable, through the haze
+of his disordered faculties, to see clearly how, and in what, he was
 interested in the affair.
 
 "Where's my lady?" whispered Taperton to the valet, who stood almost as
@@ -4138,7 +4211,7 @@ Leamington, to Newmarket, to Goodwood; he followed him to Paris, to
 Brussels; wherever in any city the man opened a table for play, there
 was Broughton sure to be found.
 
-[Illustration: 131]
+
 
 At last, by way of eluding all pursuit, the Jew went over to Ireland,--a
 country where of all others fewest resources for his traffic presented
@@ -4389,7 +4462,7 @@ of, setting off at full speed around the deck, sometimes one in pursuit
 of the other, sometimes by different ways, crossing and recrossing each
 other; now with a bold spring, now with cat-like stealthiness, creeping
 slowly past. The exercise, far from fatiguing, seemed only to excite
-them more and mere, since all this time they were in search of the
+them more and more, since all this time they were in search of the
 food which Jarasch, with a cunning all his own, knew how, each day, to
 conceal in some new fashion. Baffled and irritated by delay, the eyes
 grew red and lustrous, the tails stiffened, and were either carried
@@ -4453,8 +4526,8 @@ with more hardy industry, assisting our fat German mate to polish up
 his Regensburg pistols, by which I made some progress in that tongue of
 harsh and mysterious gutturals.
 
-Through all these occupations the thought never left me,--what could
-be the object of Sir Dudley's continued voyaging? No feature of pleasure
+Through all these occupations the thought never left me,--what could be
+the object of Sir Dudley's continued voyaging? No feature of pleasure
 was certainly associated with it; as little could it be attributed to
 the practice of smuggling,--the very seas he had longest cruised in
 forbade that notion. It must be, thought I, that other reason to which
@@ -4704,7 +4777,7 @@ venture.
 
 The story went that his ghost still wandered there, and that at night,
 when the storm was high, and the waves of the Gulf sent the spray over
-that low and dreary island, his cries could* be heard, calling aloud to
+that low and dreary island, his cries could be heard, calling aloud to
 "shorten sail," to "brace round the yards, close the hatchways," mingled
 with blasphemies that made the very hair stand on end.
 
@@ -4947,7 +5020,7 @@ top of the head. Twice or thrice the same attack, with the same result,
 followed; and at each blow a gallant cheer from the men gave me fresh
 courage.
 
-[Illustration: 156]
+
 
 The beast was now excited to a dreadful degree; but her very passion
 favored me, for her assaults were wilder and less circumspect than at
@@ -4989,7 +5062,7 @@ after a fierce struggle, in which she had seized me by the shoulder, I
 fell against the bulwark. With a last effort I staggered to my knees,
 flung open the gangway, and then, with an exertion that to myself
 seemed my very last on earth, I seized her by the throat and hurled her
-backwards into the sea. On 'hands and knees I leaned forward to see her
+backwards into the sea. On hands and knees I leaned forward to see her
 as the rapid Gulf-stream, hurrying onward to the ocean, bore her away;
 and then, as my sight grew fainter, I fell back upon the deck, and
 believed I was dying.
@@ -5121,9 +5194,9 @@ boy?"
 
 "I have done all I could,--more than perhaps it was safe to do. I told
 him I could n't answer for the men, if he were to shoot him on board;
-and he replied to me short, 'I 'll take the fellow ashore with me
-alone; neither you nor they have any right to question what you are not
-to witness.'"
+and he replied to me short, 'I 'll take the fellow ashore with me alone;
+neither you nor they have any right to question what you are not to
+witness.'"
 
 "Well, when I get back to Elsinore, it's to a prison and heavy irons I
 shall go for life, that's certain; but I 'd face it all rather than live
@@ -5346,7 +5419,7 @@ Richmond to Blackwall.
 While these very laudable sentiments are easy enough in the
 circumstances I have mentioned, they are marvellously difficult to
 practise at the touch of stern reality. At least I found them so, as
-I set out to seek the "Refuge" on Anti-costi. It was just daybreak as,
+I set out to seek the "Refuge" on Anticosti. It was just daybreak as,
 somewhat stiffened with a sleep on the cold beach, and sore from my
 recent bruises, I began my march. "Nor'-west and by west" was Halkett's
 vague direction to me; but as I had no compass, I was left to the
@@ -5455,7 +5528,7 @@ primitive natives of Anticosti.
 From my earliest years I had an antipathy to rats,--so great that it
 mastered all the instincts of my courage. I feared them with a fear I
 should not have felt in presence of a wild beast, and I was confident
-that had I been attacked vigorously by e\en a single rat, the natural
+that had I been attacked vigorously by even a single rat, the natural
 disgust would have rendered me unable to cope with him. When very young,
 I remembered hearing the story of an officer who, desirous of visiting
 the vaults under St. Patrick's Church, in Dublin, descended into them
@@ -5612,7 +5685,7 @@ associations, always stimulated the wretched beasts into a canter; and
 under the impression of this salutary terror, we used to reach the top
 almost as speedily as in the old days of the penal code.
 
-The same device now aided me against the rats of Anti-costi; and if
+The same device now aided me against the rats of Anticosti; and if
 any one will say to what end this narrative of an encounter so
 insignificant, my answer is, that whether in the St. Lawrence or in
 St. Stephen's, rats are far more formidable than their size or
@@ -5672,11 +5745,11 @@ pointing with his finger to his dry, cracked lips, he said, "A boire,
 
 The look of earnest, almost passionate entreaty of the poor creature's
 face, the expression of want and misery, struggling with a faint hope,
-as he uttered these words, routed all fears for myself; and filling à
+as he uttered these words, routed all fears for myself; and filling a
 cup from the tank with water, I emptied the last remaining drops of my
 brandy-flask into it, and held it to his mouth.
 
-[Illustration: 178]
+
 
 He swallowed it greedily; and then, clasping my wrist with his gaunt
 and bony fingers, held me fast for a few seconds while he recovered his
@@ -5848,7 +5921,7 @@ In the struggle of his paroxysm--for it was really little less--he
 tore open the coarse rag of canvas that he wore, and I could perceive
 something fastened round his neck by a piece of spun-yarn. At first I
 thought it one of those charms that seamen are so fond of carrying
-about them,--amulets against Heaven knows what# kind of dangers: but, on
+about them,--amulets against Heaven knows what kind of dangers: but, on
 stooping down, I perceived it was an old leather pocket-book which once
 had been red, but by time and dirt was almost black.
 
@@ -5877,6 +5950,7 @@ I leaned over, and caught it; and by the light of the fire I read the
 following lines, which were in print, and apparently cut from the column
 of a newspaper:--
 
+
                   ONE  THOUSAND DOLLARS  REWARD.
 
      Any one will be entitled to the above reward who may detect
@@ -5897,7 +5971,6 @@ of a newspaper:--
 
      Address: The Office of the "Picayune "--Letter--T. G--
      B--.   New Orleans.
-
 
 There were a few words in Spanish scrawled on the back.
 
@@ -6196,9 +6269,9 @@ to bring her out what she calls a first-rate man-servant from England;
 by which she means a creature capable of subsisting on quarter rations,
 and who, too far from home to turn restive, must put up with any wages.
 The very fact that he came out special, she well knows, will be a puff
-for the 'Establishment' among the Canadian Members of Parliament
-and the small fry of officials who dine at the house; and as to
-qualifications, who will dare question the 'London footman '?"
+for the 'Establishment' among the Canadian Members of Parliament and the
+small fry of officials who dine at the house; and as to qualifications,
+who will dare question the 'London footman '?"
 
 "Pooh, pooh!" broke in Carrington; "that fellow don't look like a London
 footman."
@@ -6310,8 +6383,8 @@ what it is, lads," added he, seriously, "when such rogues journey the
 road of life singly, they raise _themselves_ to station and eminence;
 but when they herd together in masses, these are the fellows who pull
 _others_ down, and effect the most disastrous social revolutions.--So
-you 'll not be a soldier Con?" added he, resuming the vernacular;
-"well, what are your ideas as to the civil service?"
+you 'll not be a soldier Con?" added he, resuming the vernacular; "well,
+what are your ideas as to the civil service?"
 
 "Anything to begin with, sir."
 
@@ -6381,6 +6454,7 @@ the likelihood of my having served in more than two or three situations.
 
 "What say you to this, lads?" said Pike, reading from a rough and
 much-corrected draft before him:--
+
 
      The bearer, Cornelius Cregan, has lived in my service ten
      months as a page; he is scrupulously honest, active, and
@@ -6453,7 +6527,7 @@ carry any other banner.
 The whole view is panoramic. The bending of the river shuts out the
 channel by which you have made your approach, giving the semblance of a
 lake, on whose surface vessels of every nation lie at anchor, some with
-the sails bung out to dry, gracefully drooping from the taper spars;
+the sails hung out to dry, gracefully drooping from the taper spars;
 others refitting again for sea, and loading the huge pine-trunks,
 moored as vast rafts to the stern. There were people everywhere; all
 was motion, life, and activity. Jolly-boats with twenty oars, man-of-war
@@ -6486,10 +6560,10 @@ notice. Soldiers were mustering, knapsacks packing, rolls calling,
 belts buffing, and coats brushing on all sides; men grumbling; sergeants
 cursing; officers swearing; half-dressed invalids popping up their heads
 out of hatchways, answering to wrong names, and doctors ordering them
-down again with many an anathema; soldiers in the way of sailors, and
-sailors always hauling at something that interfered with the inspection-
-drill: every one in the wrong place, and each cursing his neighbor for
-stupidity.
+down again with many an anathema; soldiers in the way of sailors,
+and sailors always hauling at something that interfered with the
+inspection-drill: every one in the wrong place, and each cursing his
+neighbor for stupidity.
 
 At last the shore-boats boarded us, as if our confusion wanted anything
 to increase it. Red-faced harbor-masters shook hands with the skipper
@@ -6521,7 +6595,7 @@ multitude, save the "mate" and the "watch," who proceeded to get things
 "ship-shape,"--pretty much in the same good-tempered spirit servants are
 accustomed to put the drawing-rooms to rights, after an entertainment
 which has kept them up till daylight, and allows of no time for sleep.
-Till then I had net the slightest conception of what a voyage ended
+Till then I had not the slightest conception of what a voyage ended
 meant, and that when the anchor dropped from the bow, a scene of bustle
 ensued, to which nothing at sea bore any proportion. Now, I had no
 friends; no one came to welcome me,--none asked for _my_ name. The
@@ -6632,17 +6706,17 @@ fellows who, born in your station, would have died in it, without a bit
 more influence over their fate in this life than a Poldoody oyster;
 they 'd vegetate to the end of existence, and slip out of the world as
 a fellow shirks out of a shebeen-house when he has n't tu' pence for
-another 'dandy' of punch. Not so with you, Con Cregan! You have
-hydrogen in you,--you have the buoyant element that soars above the
-vulgar herd. These are not the partial sentiments of a dear friend,
-Con, they are the current opinions of the world about you. How soon the
-'Captain' saw what stuff you were made of! How long was old Pike in
-detecting the latent powers of your intellect?" What a shout of laughter
-followed these words! It came from half-a-dozen officers, who, having
-entered the room during my apostrophe, had concealed themselves behind a
-screen to listen to the peroration.
+another 'dandy' of punch. Not so with you, Con Cregan! You have hydrogen
+in you,--you have the buoyant element that soars above the vulgar herd.
+These are not the partial sentiments of a dear friend, Con, they are the
+current opinions of the world about you. How soon the 'Captain' saw what
+stuff you were made of! How long was old Pike in detecting the latent
+powers of your intellect?" What a shout of laughter followed these
+words! It came from half-a-dozen officers, who, having entered the room
+during my apostrophe, had concealed themselves behind a screen to listen
+to the peroration.
 
-[Illustration: 204]
+
 
 They now rushed out in a body, and, throwing themselves into chairs and
 upon sofas, laughed till the very room rang with the clamor, the captain
@@ -6670,12 +6744,11 @@ you?"
 of your discrimination. It would seem that you detected the precious
 metal here at once."
 
-"What country do you come from, boy?" said a hard-featured
+"What country do you come from, boy?" said a hard-featured old officer
+who had laughed less than the others.
 
-old officer who had laughed less than the others.
-
-"How can you ask, Chudleigh?" said another. "There 'a only one land
-rears that plant."
+"How can you ask, Chudleigh?" said another. "There's only one land rears
+that plant."
 
 "There's a weed very like it in Scotland, M'Aldine," said the captain,
 with a grin which the last speaker did not half relish.
@@ -6782,17 +6855,17 @@ participates in all these advantages, "_among his friends_."
 As I mused thus, I had reached the "Lower Town," and found myself
 opposite the door of a tavern, over which a brilliant lamp illuminated
 the sign of "The British Grenadier,"--a species of canteen in high favor
-with sergeants and quartermasters of the garrison. I entered boldly,
-and with the intention of behaving generously to myself; but scarcely
-had I passed the threshold than I heard a sharp voice utter in a
-half-whisper, "Dang me if he an't in livery!"
+with sergeants and quartermasters of the garrison. I entered boldly, and
+with the intention of behaving generously to myself; but scarcely had I
+passed the threshold than I heard a sharp voice utter in a half-whisper,
+"Dang me if he an't in livery!"
 
 I did not wait for more. My "tact" assured me that even there I was not
 admissible; so I strolled out again, muttering to myself, "When a
 man has neither friend nor supper, and the hour is past midnight, the
-chances are it is 'time to go to bed;'" and with this sage reflection,
-I wended my way towards a humble lodging-house on the quay, over which,
-on landing, I read the words, "The Emigrant's Home."
+chances are it is 'time to go to bed;'" and with this sage reflection, I
+wended my way towards a humble lodging-house on the quay, over which, on
+landing, I read the words, "The Emigrant's Home."
 
 
 
@@ -6875,14 +6948,14 @@ that Banquo might have seated himself at any part of the table, and he
 actually upbraided his wife with the fact. Every day he announced some
 new defection from the list of their old supporters. Now it was old Ben
 Crosseley, of the "Lively Biddy," that would n't stand being ordered to
-shake out his canvas--that is, to spread his napkin--when he was taking
-in sea store; then it was Tom Galket grew indignant at not being
+shake out his canvas--that is, to spread his napkin--when he was
+taking in sea store; then it was Tom Galket grew indignant at not being
 permitted to beat "to quarters" with his knuckles at every pause in the
 dinner. Some were put out by being obliged to sit with their legs under
 the table, being long habituated to dine at a cask with a plank on it,
 and of course keeping their limbs "stowed away" under the seat; and one,
-an old and much-respected river pilot, was carried away insensible from
-table, on hearing that grog was not a recognized table beverage
+an old and much-respected river pilot, was carried away insensible
+from table, on hearing that grog was not a recognized table beverage
 throughout the British dominions.
 
 The banishment of lobscouse and sea-pie, pork, with its concomitant
@@ -7014,7 +7087,7 @@ advantage.
 
 "Me no see him," said Sambo; "missus eat him up, perhaps."
 
-"Monsonze! you filthy creature; look for it, sirrah!" So Baying, Mrs.
+"Monsonze! you filthy creature; look for it, sirrah!" So saying, Mrs.
 Davis applied her double eye-glass to her eyes, and again surveyed me
 for some seconds.
 
@@ -7085,7 +7158,7 @@ rueful picture of bruises and disorder, while I, emerging from between
 the steps of the ladder, began to examine whether it were marmalade or
 my brains that I felt coming down my cheek.
 
-[Illustration: 217]
+
 
 "You'll never mention this shocking event, Cornelius," said she, trying
 to adjust her wig, which now faced over the left shoulder.
@@ -7108,8 +7181,8 @@ might easily be in better hands."
 "Yes, my lady--madam, I mean."
 
 "Soup always goes first to Mrs. Trussford,--black velvet, and very fat;
-then to the lady in blue spectacles; afterwards Miss Moriarty. Ah, I 'm
-too weak for giving directions; I 'm in what they call 'un état de
+then to the lady in blue spectacles; afterwards Miss Moriarty. Ah, I
+'m too weak for giving directions; I 'm in what they call 'un état de
 fuillete;'" and with these words Mrs. Davis retired, leaving me to the
 contemplation of the battle-field and my own bruises.
 
@@ -7124,9 +7197,9 @@ climate; the snows begin to-morrow!" So is it: ignorance and pretension
 are infallibly discovered by "routine" people; they look to details, and
 they at once detect him who mistakes or overlooks them.
 
-Resolving, at all events, to make my "Old World" habits stand my part
-in every difficulty, and to sneer down every-thing I did not understand,
-I put on a bold face, and descended to the lower regions.
+Resolving, at all events, to make my "Old World" habits stand my part in
+every difficulty, and to sneer down everything I did not understand, I
+put on a bold face, and descended to the lower regions.
 
 Great people, "Ministers" and Secretaries for the "Home" and "Foreign,"
 little know how great their privilege is that in taking office they
@@ -7136,9 +7209,9 @@ in," does not come abruptly upon Lord Aberdeen "going out," nor does an
 angry altercation arise between him who arrives to stay and he who is
 packing his portmanteau to be off. I say that I opine as much, and that
 both the entrance and the departure are conducted with due etiquette
-and propriety; in fact, that Lord A. has called his cab and slipped
-away before Lord P. has begun to "take up" the "spoons,"--not a bad
-metaphor, by the way, for an entrance into the Foreign Office.
+and propriety; in fact, that Lord A. has called his cab and slipped away
+before Lord P. has begun to "take up" the "spoons,"--not a bad metaphor,
+by the way, for an entrance into the Foreign Office.
 
 No such decorous reserve presides over the change of a domestic
 ministry. The whole warfare of opposition is condensed into one angry
@@ -7252,7 +7325,7 @@ who could so impress the ranks beneath them. "Con," said I to myself,
 like that of a gentleman. He who does nothing is always ready for
 everything; the little shifts and straits of a handicraft or a
 profession narrow and confine the natural expansiveness of the
-intellect, which, like a tide over a fiat shore, should swell and spread
+intellect, which, like a tide over a flat shore, should swell and spread
 itself out, free and without effort. See to this, Master Con; take care
 that you don't sit down contented with a low round on the ladder of
 life, but strive ever upwards; depend on it, the view is best from the
@@ -7514,6 +7587,8 @@ mouths, stifling, as they best could, a burst of laughter; since exactly
 between his shoulders, in marks of about four inches long, stood the
 numerals "158," a great flourish underneath proclaiming that the roll
 had probably concluded, and that this was the "last man."
+
+
 
 Of the major, tradition had already consecrated one exploit; he had once
 kicked an impertinent tradesman down the great flight of iron stairs
@@ -7800,8 +7875,8 @@ information, and had not the slightest knowledge of New Orleans or its
 localities. The little scrap of newspaper I had picked up on Anticosti
 was the only thing having any reference to that city I ever possessed in
 my life. But, true to my theory to let nothing go to loss, I remembered
-this now, and, with an easy confidence, said, "I cannot recall the
-street, but it is just as you turn out of the street where the
+this now, and, with an easy confidence, said, "I cannot recall
+the street, but it is just as you turn out of the street where the
 'Picayune' newspaper-office stands."
 
 "Right!--all right, by the father of Moses!" cried Joe, stretching out
@@ -7917,6 +7992,7 @@ chorus a song, of which the air, at least, was Irish.
 The barbarous rhyme of one rude verse, as they sung it in passing, still
 lingers in my memory:
 
+
      "No bloody agint here we see,
      Ready to rack, distrain, and saze us;
      Whatever we ax, we have it free,
@@ -7995,7 +8071,7 @@ scarce worth the granting.
 
 "And a bit to eat," broke in the old man, turning round from his
 prayers. "Sanctificatur in sec'la,--if it was only a bit of belly bacon,
-and--Tower of Ivory, purtect us--with a pot of praties, and--Matthew^
+and--Tower of Ivory, purtect us--with a pot of praties, and--Matthew,
 Mark, Luke, and John--"
 
 "Is he a friar?" said the hag to me, eagerly; "does he belong to an
@@ -8155,16 +8231,15 @@ below my rank and future prospects. Among others, he wrote to an old
 friend and schoolfellow, the Governor-General, requesting his aid in
 this affair. I was always able, from other sources, to learn every
 step that was taken with this object; so that I not only knew this, but
-actually possessed a copy of my father's letter to Lord Poynder,
-wherein this passage occurred: 'Above all things, my dear Poynder, no
-publicity, no exposure! Remember the position Cornelius will one day
-hold, and let him not be ashamed when he may meet you in after-life. If
-the silly boy can be induced, by his own sense of dignity, to abandon
-this unworthy pursuit, so much the better; but coercion would, I fear,
-give faint hope of eradicating the evil.' Now, as I perceived that no
-actual force was to be employed against me, I did not hesitate to
-appear in the part for which the bills announced me. Have you ever read
-Shakespeare?"
+actually possessed a copy of my father's letter to Lord Poynder, wherein
+this passage occurred: 'Above all things, my dear Poynder, no publicity,
+no exposure! Remember the position Cornelius will one day hold, and let
+him not be ashamed when he may meet you in after-life. If the silly boy
+can be induced, by his own sense of dignity, to abandon this unworthy
+pursuit, so much the better; but coercion would, I fear, give faint hope
+of eradicating the evil.' Now, as I perceived that no actual force was
+to be employed against me, I did not hesitate to appear in the part for
+which the bills announced me. Have you ever read Shakespeare?"
 
 "No, sir," said Joe, respectfully.
 
@@ -8195,14 +8270,14 @@ accidentally catching a glimpse of me in the side-scenes.
 "'Is it your pleasure, my lords, ladies, and gentlemen, that this actor
 should not appear again before you?'
 
-"'Yes--yes. No--no--no.'were shouted from hundreds of voices.
+"'Yes--yes. No--no--no,'were shouted from hundreds of voices.
 
 "' What am I to understand?' said he, bowing, with his arms crossed
 submissively before him. 'I submit myself to your orders. If Mr. Cregan
 does not meet your approbation--'
 
-"'Throw him into the dock!--break his neck!--set him adrift on a log
-down the Gulf-stream!--chip him up for bark!--burn him for
+"'Throw him into the dock!--break his neck!--set him adrift on a
+log down the Gulf-stream!--chip him up for bark!--burn him for
 charcoal!'--and twenty other like humane proposals burst forth together;
 and so, not waiting to see how far the manager's politeness would carry
 him, I fled from the theatre. Yes, Cullinane, I fled with shame and
@@ -8231,8 +8306,8 @@ This, like nine-tenths of his own class in Ireland, he regarded as a
 systematic means of oppression, invented by the rich to give them the
 tyrannical dominion over the poor. Nor is the belief to be wondered at,
 considering how cognizant the peasant often is of all the schemes and
-wiles by which a conviction is compassed; nay, the very adroitness of a
-legal defence in criminal cases,--the feints, the quips, the
+wiles by which a conviction is compassed; nay, the very adroitness of
+a legal defence in criminal cases,--the feints, the quips, the
 stratagems,--instead of suggesting admiration for those barriers by
 which the life and liberty of a subject are protected, only engendered a
 stronger conviction of the roguish character of that ordeal where craft
@@ -8254,8 +8329,8 @@ sunk in his own reflections, so that I was forced to repeat my question.
 
 "Ye never heerd of one Mr. Shinane, of the Grove?" said he, after a
 pause. "Of coorse ye did n't,--'tis many years ago now; but he was well
-known oncet, and owned a great part of Ennistymore, and a hard man he
-was. But no matter for that,--he was a strong, full man, with rosy
+known oncet, and owned a great part of Ennistymore, and a hard man
+he was. But no matter for that,--he was a strong, full man, with rosy
 cheeks and stout built, and sorra a lease in the country had not his
 life in it!--a thing he liked well, for he used to say, 't 'll be the
 ruin of ye all, if any one shoots me!' Well, my grandfather--rest his
@@ -8290,18 +8365,18 @@ twelve Cafferty came through the wood, and asked the people had they
 seen Mr. Shinane pass by, for that he towld him to meet him at the
 cottage; and the workmen said yes, and more by token that he was
 quarrellin' with Mat Cullinane. 'I'm sorry for that,' says Cafferty,
-'for I wanted him to be in a good humor, and long life to him! 'The words
-was n't well out, but what would they see but my grandfather running
-towards them, at the top of his speed, screeching out like mad, 'The
-master's murdered! the master's kilt dead!' Away they all went to the
-cottage, and there upon the floor was the dead body, with an axe buried
-deep in the skull,--so deep that only the thick part of the iron was
-outside. That was the dreadful sight! and, sure enough, after looking at
-the corpse, every eye was turned on my grandfather, who was leaning on
-the dresser, pale and trembling, and his hands and knees all covered
-with blood. 'How did it happen, Mat?' said three or four together; but
-Cafferty muttered, 'It's better ask nothing about it; it's not likely
-_he 'll_ tell us the truth!'
+'for I wanted him to be in a good humor, and long life to him! 'The
+words was n't well out, but what would they see but my grandfather
+running towards them, at the top of his speed, screeching out like mad,
+'The master's murdered! the master's kilt dead!' Away they all went to
+the cottage, and there upon the floor was the dead body, with an axe
+buried deep in the skull,--so deep that only the thick part of the
+iron was outside. That was the dreadful sight! and, sure enough, after
+looking at the corpse, every eye was turned on my grandfather, who was
+leaning on the dresser, pale and trembling, and his hands and knees
+all covered with blood. 'How did it happen, Mat?' said three or four
+together; but Cafferty muttered, 'It's better ask nothing about it; it's
+not likely _he 'll_ tell us the truth!'
 
 "The same night my grandfather was arrested on suspicion and brought to
 Ennis, where he was lodged in jail; and although there was no witness
@@ -8347,12 +8422,12 @@ breath!"
 "And you think he was innocent?" said I.
 
 "Sure, we know it! sure, the priest said to my father,--'Take courage,'
-says he, 'your father is n't in a bad place if he 's in purgatory,'
-says he,' he 's not over the broken bridge, where the murderers does
-be, but in the meadows, where the stream is shallow, and stepping-stones
-in it! and every stone costs ten masses--sorra more! 'God help us! but
-blood is a dreadful thing!" And with this reflection, uttered in a voice
-of fervent feeling, the hardy peasant laid down his pipe; and I could
+says he, 'your father is n't in a bad place if he 's in purgatory,' says
+he,' he 's not over the broken bridge, where the murderers does be, but
+in the meadows, where the stream is shallow, and stepping-stones in it!
+and every stone costs ten masses--sorra more! 'God help us! but blood
+is a dreadful thing!" And with this reflection, uttered in a voice of
+fervent feeling, the hardy peasant laid down his pipe; and I could
 see, by his muttering lips and clasped hands, that he was offering up a
 prayer for the soul's rest of his unhappy kinsman.
 
@@ -8391,7 +8466,7 @@ another, whose accents sounded like pain and suffering. The shuffling
 footsteps still continued, and I heard the old crazy sash of the window
 open, and after an interval shut again, while I distinctly could catch
 the old hag's voice saying, "It 's all dark without; there 's no use
-'trying '!" a low whining sound followed; and then I heard the old woman
+'trying'!" a low whining sound followed; and then I heard the old woman
 slowly descending the stairs, and, by the motion of her hand along the
 wall, I conjectured that she had no light.
 
@@ -8434,11 +8509,11 @@ My mind throughout the whole of that night had been kept in a state of
 tension that invariably has the effect of magnifying the significance of
 every, even the very commonest, occurrences. It resembles that peculiar
 condition in certain maladies when the senses become preternaturally
-acute; in such moments the reason is never satisfied with drawing
-only/row inferences for any fact before it; it seeks for more, and in
-the effort becomes lost in the mazes of mere fancy. I will own that as,
-with stealthy step and noiseless gesture, I followed that old hag, there
-was a kind of ecstasy in my terror which no mere sense of pleasure could
+acute; in such moments the reason is never satisfied with drawing only
+from inferences for any fact before it; it seeks for more, and in the
+effort becomes lost in the mazes of mere fancy. I will own that as, with
+stealthy step and noiseless gesture, I followed that old hag, there was
+a kind of ecstasy in my terror which no mere sense of pleasure could
 convey. The light seemed to show ghastly shapes, as she passed, on
 the green and mouldy walls, and her head, with its masses of long and
 straggling gray hair, nodded in shadow like some unearthly spectre.
@@ -8623,8 +8698,8 @@ meet with are worse than the red ones,--such rogues, and assassins too!"
 "Look out for some smart fellow who knows the way and thoroughly
 understands the people, and who can speak French fluently, for the first
 part of the journey, and who is up to all the Yankee roguery, for the
-second. Give him full power to guide and direct your expedition, and
-you 'll have both a safe journey and a pleasant one."
+second. Give him full power to guide and direct your expedition, and you
+'ll have both a safe journey and a pleasant one."
 
 "Ay, and where will we get him?" cried one.
 
@@ -9184,7 +9259,7 @@ I own it did require a vivid and warm imagination so to interpret the
 expressions which met my eyes at every moment, seeing that the part of
 the town into which I had wandered was that adjoining to the docks,--a
 filthy, gloomy quarter, chiefly resorted to by Jew slop-sellers,
-ship-chandlers, and such like, with here and there a sailors' ordinary»
+ship-chandlers, and such like, with here and there a sailors' ordinary
 usually kept by a negro or half-breed.
 
 I had eaten nothing that day, and it was now late in the afternoon, so
@@ -9235,6 +9310,7 @@ twelve cents, or, by accepting the brilliant entertainment announced
 yonder, price half-a-dollar, keep Lent the rest of the week.
 
 The temptation to which I allude ran thus:--
+
 
      Ladies and Gentlemen's Grand Ordinary of all Nations
 
@@ -9375,7 +9451,7 @@ end of the table. "That beats you hollow, Giles!" "By Jove, how scarce
 babies must be in the part you come from, if people take tickets for
 em!" Such were some of the commentaries that broke out amidst the mirth.
 
-[Illustration: 280]
+
 
 "I move," said a dapper little Frenchman who had been a barber and a
 National Guard once, "I move that the honorable deputy make a statement
@@ -9415,12 +9491,86 @@ the pleas whispered around me. I am neither thief, pickpocket, runaway
 postman, burglar, nor highwayman. If I be, as you are pleased to say,
 'wide awake,' I believe it is only a common precaution, considering
 the company I find myself in; and if I really could lay claim to the
-flattering praise of a fair lady on the loft, it would be merely from
-what he was commonly called at the clubs, the Great 'Borassus,' he was
-listened to with interest and attention; and, in fact, from the extent
-of his knowledge of the subject, and his acquaintance with every detail
-of its history, each felt that to his Lordship ought by right to fall
-the fortunate ticket.
+flattering praise of a fair lady on the left, it would be merely from
+accidentally reflecting her own bright glances. I present myself, then,
+with much diffidence before you, for the simple reason that I come in a
+character somewhat strange in these parts,--I am a gentleman!"
+
+The ineffable impertinence of this address succeeded to a miracle. Some
+laughed, some applauded, a few muttered an unintelligible discontent;
+but the majority of the men and all the women were with me, and I saw
+that audacity had gained the day. Ay, and so will it ninety-nine times
+out of the hundred in everything through life! The strategic axiom, that
+no fortress is impregnable, is a valuable worldly lesson, and one ought
+never to forget that a storming-party rarely fails.
+
+"The circumstance to which I alluded a few miuutes back--I dare not
+presume to call it a story--occurred thus :
+
+"There was a large and brilliant party assembled to pass the Christmas
+at the Duke of Y--------'s; you will understand my reserve. The company
+included many of the first persons in fashionable life, and a Royal
+*Duke to boot, a great friend of her Grace, and, some said, an old
+admirer of one of her sisters, who--so went the rumor--showed the
+strength of her attachment to his Royal Highness by never having
+accepted any of the brilliant offers of marriage made her. She was
+remarkably beautiful, and although a little past the first bloom of
+youth, in full possession of her charms at the time I speak of. Old Lord
+K-------- was one of the guests; and I am sure many of the distinguished
+company to whom I now address myself will not need any more particular
+description of the man they must have met a hundred times every London
+season, well known, indeed, as he is, with his light-blue coat and his
+buckskin tights, his wide beaver hat, and his queue; his eccentricities,
+his wealth, and his great avarice are themes all London is acquainted
+with." I paused.
+
+A buzz of acknowledgment and recognition followed, and I resumed:--
+
+"Lord E--------, you are aware, was a great musical amateur ; he was
+the leader of everything of that kind about town, and whenever he could
+prevail upon himself to open his house in Carlton Terrace, it was always
+to Lablache, and Kubini, and Marini, and the reat of them. Well, it was
+just at the period of this Christmas visit--over which I may remark, en
+passant, Lady Blanche's indisposition cast a shade of gloom--that, in
+making some alteration in the mansion, they discovered in a concealed
+press in the wall a mahogany case, on opening which were found the moth
+and worm eaten remains of a violin. A parchment document enclosed in
+a little scroll of brass, and which had escaped the ravages of time,
+explained that this was the instrument of the celebrated Giacomo
+Battesta Pizzicbetoni, the greatest violinist that ever lived,--the
+composer of 'II Diavolo e la sua Moglia' and the 'Balia di Paradise,'
+and many other great works, with which you are all familiar."
+
+The company chorused assent, and I continued: "The party had somehow
+not gone off well; the accustomed spirit aud animation of the scene were
+wanting. Perhaps Lady Blanche's illness had some share in this; in any
+case, every one seemed low aud out of sorts, and the pleasant people
+talked of taking leave, when his Royal Highness proposed, by way of
+doing something, that they should have a raffle for this wonderful
+fiddle, of which, though only seen by the host and another, every one
+was talking.
+
+"Even this much of stir was hailed with enthusiasm, the secrecy and
+mystery increasing the interest to a high degree.
+
+The tickets were two guineas each ; and Lord E--------, dying to possess
+'a real Pizzichetoni,' took twenty of them. The number was limited to a
+hundred; but such was the judicious management of those who directed
+the proceedings that the shares were at a 'high premium' on the day of
+drawing, his Royal Highness actually buying up several at five guineas
+apiece. The excitement, too, was immense ; encyclopedias were ransacked
+for histories of the violin, and its great professors and proficients.
+The 'Conversations Lexicon' opened of itself at the letter P., and
+Pizzichetoni's name turned up in every corner and on every theme, fifty
+times a day. What a time I have heard that was! nothing talked of but
+bow-action, shifting, bridging, double fingering, and the like, from
+morning to night. Lord E-------- became, in consequence of this run
+about a favorite subject, a personage of more than ordinary importance;
+instead of being deemed, what he was commonly called at the clubs, the
+Great 'Borassus,' he was listened to with interest and attention;
+and, in fact, from the extent of his knowledge of the subject, and his
+acquaintance with every detail of its history, each felt that to his
+Lordship ought by right to fall the fortunate ticket.
 
 "So did it, in fact, turn out. After much vacillation, with the last two
 numbers remained the final decision. One belonged to the Royal Duke, the
@@ -9444,8 +9594,8 @@ aware, was her instrument.'
 "'Now, then, for our fortunes!' cried the Duke, as he drew forth his
 ticket. 'I believe I 'm the lucky one: this is number 2000.'
 
-"'Two thousand and one!' exclaimed Lord E------, holding up his, and,
-in an ecstasy of triumph, sat down to recover himself.
+"'Two thousand and one!' exclaimed Lord E------, holding up his, and, in
+an ecstasy of triumph, sat down to recover himself.
 
 "'Here is the key, my Lord,' said one of the party, advancing towards
 him.
@@ -9453,18 +9603,18 @@ him.
 "He sprang up, and thrust it into the lock; in his agitation he shook
 the box, and a slight, soft cadence, like a faint cry, was heard.
 
-"' The soul of music hovers o'er it still,' he exclaimed theatrically,
+"'The soul of music hovers o'er it still,' he exclaimed theatrically,
 and, flinging back the lid, discovered--Me! Yes, ladies and gentlemen,
 in a very smart white robe, with very tasty embroidery, and a lace cap
 which I am assured was pure Valenciennes, there I lay! I am not aware
 whether my infantine movements were peculiarly seductive or not; but
 I have been told that I went through my gamut at a key that even
-overtopped the iaughter around me.
+overtopped the laughter around me.
 
 "'A very bad jest--a _mauvaise plaisanterie_ of the worst taste, I must
 say,' said Lord E------turning away, and leaving the room.
 
-[Illustration: 284]
+
 
 "I never rightly knew how the matter was afterwards made up, but
 certainly it was by his lordship's directions, and at his charge, that
@@ -9482,7 +9632,7 @@ in the seventh century, who was named Cornelius Crejanus, or, as some
 spell, Creganus; and, in compliance with modern usages, they anglicized
 me into Con Cregan."
 
-"I have the honor to propose Con Cregan's health." said the president;
+"I have the honor to propose Con Cregan's health," said the president;
 "and may he see many happy years ere he next goes to sleep in a wooden
 box!"
 
@@ -9556,9 +9706,9 @@ couples, flying down the room to the merry measure; Monsieur de
 Rosanne arranging the figures, beating the time, preserving order, and
 restraining irregularities, with the energy of one possessed.
 
-"Ah, Monsieur le Capitaine de Cocks, c*en est trop. Mademoiselle de
+"Ah, Monsieur le Capitaine de Cocks, c'en est trop. Mademoiselle de
 Spicer, pas si haut! de arms graceful! Ladies, no keep your hands under
-your--what ye call him--jupe--apron--ha! ha! Black man--negro--no talk
+* your--what ye call him--jupe--apron--ha! ha! Black man--negro--no talk
 so loud when you make punch!"
 
 "Chassez--balancez! La grace! Madame la Marquise, la grace!" Then, as
@@ -9621,7 +9771,7 @@ Will you have a partner?"
 
 "Well, no matter. If you did, you should have mine here. But what say
 you to Mademoiselle Héloïse, yonder?--a bit faded or so; but I remember
-her second 'Bal-larina' at the Havana, only two years back."
+her second 'Ballarina' at the Havana, only two years back."
 
 I made the suitable acknowledgment; and the next moment saw me whirling
 away in a waltz, at least in such an approximation to that measure as
@@ -9668,8 +9818,8 @@ thing it is to be an angel, even in this world!
 So much for Mademoiselle Héloise; and if the reader be weary of her, so
 was I.
 
-"You'll have to treat her to a supper," whispered Falk-oner, as he
-passed me.
+"You'll have to treat her to a supper," whispered Falkoner, as he passed
+me.
 
 "I've not a cent in my purse," said I, thinking it better to tell the
 truth than incur the reproach of stinginess.
@@ -9768,7 +9918,7 @@ and determine to buy it up. Here it is. Can you read these figures? for,
 hang me if the punch, or the heat, or the dancing, has not made me quite
 dizzy."
 
-"Let me see: Number '38," said I, repeating it a couple of times over.
+"Let me see: Number 438," said I, repeating it a couple of times over.
 
 "Yes, that is it. If I could have chanced on it, I 'd have run down
 to-morrow by the 'Christobal.' She lies about a mile out, and will weigh
@@ -9955,7 +10105,7 @@ came to this puzzling fact, my fingers, deeply immersed in the pocket,
 came in contact with a small leather case. I drew it forth; it was not
 mine,--I had never seen it before! I opened it; there was nothing within
 but a small piece of card, with the words, "Full Share Ticket," on top,
-and, underneath, the figures, '"38."
+and, underneath, the figures, '438."
 
 From the card, my eyes reverted to the coat itself; and now I saw, with
 a surprise I cannot convey, that it was not my own coat, but another
@@ -10021,7 +10171,7 @@ every day, besides, we get a nor'-wester like this!"
 
 "Well, what d'ye mean to do?" asked the former speaker.
 
-"Give him ten minâtes more, Ben," cried another. "Let's have a chance of
+"Give him ten minutes more, Ben," cried another. "Let's have a chance of
 a dollar apiece, anyhow!"
 
 "There goes a shot!" said the man called Ben, as he pointed to the
@@ -10035,7 +10185,7 @@ CHAPTER XIX. ON BOARD THE 'CHRISTOBAL'
 Without further delay, the men prepared to obey the summons. The boat's
 chain was cast off, and, as she swung out from the wall, I could see a
 small standard at her stern, carrying a little white flag, which, as the
-breeze wafted towards mer showed the enigmatical numbers '38.
+breeze wafted towards mer showed the enigmatical number 438.
 
 I sprang to my legs and uttered a cry of surprise.
 
@@ -10102,7 +10252,7 @@ expedition; and I take it them things is worth a-looking arter,--so darn
 me blue if I gives myself no trouble about 'em."
 
 These scattered hints were all I wanted. The sea-breeze had restored me
-to my wonted clearness, and I now saw that "'38" meant that I had won a
+to my wonted clearness, and I now saw that "438" meant that I had won a
 free passage to Texas, a horse and a rifle when I got there; so far, the
 "exchange of coats" was "with a difference." It was with an unspeakable
 satisfaction that I learned I was the only passenger on board the
@@ -10172,7 +10322,7 @@ in spring is as rare as a mustang merchant with two eyes!'"
 "What does that mean?"
 
 "They gouge a bit down there, they do,--that's a fact. I 've known two
-or three join the Redmen, and Say Injians was better living with, than
+or three join the Redmen, and say Injians was better living with, than
 them 'ere."
 
 "I own your picture is not flattering."
@@ -10280,8 +10430,8 @@ water sharp and defined, the scene was sufficiently striking. The city
 itself was more important as to size and wealth than I had anticipated,
 and the office of the "Texan Expedition," held at the "Moon," a
 great coffee-house on the Quay, impressed me most favorably with the
-respectability and pretensions of my "Co-expeditionaries." Old
-Kit presented me to the secretary--a very knavish-looking fellow in
+respectability and pretensions of my "Co-expeditionaries." Old Kit
+presented me to the secretary--a very knavish-looking fellow in
 spectacles of black gauze--as the winner of the great prize, which, to
 my excessive mortification, I learned was at Houston, about eighty miles
 farther up the Bay.
@@ -10468,14 +10618,14 @@ brotherhood;" but my thoughts were too deeply interested in discovering
 mind like the terror of a phantom.
 
 "Can this be him?" was the question which arose to my heart as figure
-after figure passed me near where I lay; but the careless, indolent
-look of the passenger as regularly negatived the suspicion. We were now
-under way, steaming along in still water with all the tremendous power
-of our high-pressure engines, which shook the vessel as though they
-would rend its strong framework asunder. The night was beautifully calm
-and mild, and, although without a moon, the sky sparkled with a thousand
-stars, many of which were of size and brilliancy to throw long columns
-of light across the bay.
+after figure passed me near where I lay; but the careless, indolent look
+of the passenger as regularly negatived the suspicion. We were now under
+way, steaming along in still water with all the tremendous power of our
+high-pressure engines, which shook the vessel as though they would rend
+its strong framework asunder. The night was beautifully calm and mild,
+and, although without a moon, the sky sparkled with a thousand stars,
+many of which were of size and brilliancy to throw long columns of light
+across the bay.
 
 The throb of the great sea monster as she cleared her way through the
 water, was the only sound heard in the stillness; for although few had
@@ -10647,13 +10797,13 @@ was, till three days back! I was light-hearted and happy; the world went
 well with me, and I was content with the world. I will not trouble you
 with my story; enough when I say that I came abroad to indulge a
 taste for adventure and enterprise, and that the New World has not
-disappointed my expectations. If I spent money a little too freely,
-an odd grumble or so from 'the governor' was the darkest cloud that
-shaded my horizon. An only son, perhaps I pushed that prerogative
-somewhat too far; but our estate is unencumbered, and my father's habits
-are the reverse of extravagant,--for a man of his class, I might call
-them downright rustic in simplicity. Alas! why do I think of these
-things? I have done with them forever."
+disappointed my expectations. If I spent money a little too freely, an
+odd grumble or so from 'the governor' was the darkest cloud that shaded
+my horizon. An only son, perhaps I pushed that prerogative somewhat
+too far; but our estate is unencumbered, and my father's habits are
+the reverse of extravagant,--for a man of his class, I might call them
+downright rustic in simplicity. Alas! why do I think of these things? I
+have done with them forever."
 
 "Nay, nay, you must not give way thus. It is very unlikely that one
 young as you are can have any real guilt upon his conscience."
@@ -10778,7 +10928,7 @@ I have heard a good deal about these people."
 
 "There was one individual, however, so universally detested that you
 would suppose he must have been a kind of devil incarnate to have
-incurred such general hate. Every one bad a grudge against him, and, in
+incurred such general hate. Every one had a grudge against him, and, in
 fact, there was a kind of struggle who should be allotted to wreak on
 him the common vengeance of the company. It was at last decided that
 his fate should be lotteried, and that whoever won the first prize--this
@@ -10946,7 +11096,7 @@ I was all impatience to see my prize: and scarcely had I entered the inn
 than I passed out into the stable-yard, now crowded with many of those
 equestrian-looking figures I had seen on board the steamer.
 
-"Butcher's mare here still, Géorgie?" said a huge fellow, with high
+"Butcher's mare here still, Georgie?" said a huge fellow, with high
 boots of red-brown leather, and a sheepskin capote belted round him with
 a red sash.
 
@@ -10987,9 +11137,9 @@ and buy her in, wherever he found her."
 
 "Who's won her this time?" cried another.
 
-"I have, gentlemen," said I, slapping my boot with my cane, and affecting
-a very knowing air as I spoke. The company turned round and surveyed me
-some seconds in deep silence.
+"I have, gentlemen," said I, slapping my boot with my cane, and
+affecting a very knowing air as I spoke. The company turned round and
+surveyed me some seconds in deep silence.
 
 "You an't a-goin' to ride her, young 'un?" said one, half
 contemptuously.
@@ -11026,7 +11176,7 @@ near the mark?"
 
 "She 's at Austin now. You an't a-goin' there?"
 
-"Yes," said I; "I hall be in Austin next week."
+"Yes," said I; "I shall be in Austin next week."
 
 "Well, never you make a deal till you see my black pony," cried one.
 
@@ -11068,7 +11218,7 @@ her forehead, and a dash of white across the tail, being the only marks
 on her. She was bursting with condition, and both in symmetry and action
 a splendid creature.
 
-[Illustration: 324]
+
 
 "An't she a streak of lightnin', and no mistake?" said he, gazing on
 her with rapture. "An't she glibber to move nor a wag of a comet's
@@ -11246,7 +11396,7 @@ receiving some admirable counsel from a very matronly lady with thirteen
 stars on her petticoat, flaunted over the door, with the motto, "Filial
 Affection, and Candy Flip at all hours."
 
-A large, dull-eyed man, in a flannel pea-jacket and loose» trousers to
+A large, dull-eyed man, in a flannel pea-jacket and loose trousers to
 match, was seated in a rocking-chair at the door, smoking an enormous
 cigar, a little charmed circle of expectoration seeming to defend him
 from the assaults of the vulgar. A huge can of cider stood beside him,
@@ -11282,7 +11432,7 @@ some breakfast for myself too."
 
 "No travellers."
 
-[Illustration: 330-299]
+
 
 "No travellers! and this the high road between two considerable towns!"
 
@@ -11365,8 +11515,8 @@ Mine are considerable rusty!"
 The request was rather singular, but its oddity was its success; and so,
 opening a small case in the stock of my rifle, I gave him some.
 
-"Ah, them 's real chaps,--the true 'tin jackets,' as we used to say
-at St. Louis!" cried he, his tongue seeming wonderfully loosened by the
+"Ah, them 's real chaps,--the true 'tin jackets,' as we used to say at
+St. Louis!" cried he, his tongue seeming wonderfully loosened by the
 theme. "Now, lad, let's see if one of your bullets fit this bore; she's
 a heavy one, and carries twenty to the pound; and I 've nothing in her
 now but some loose chips of iron for the bears."
@@ -11507,8 +11657,8 @@ tall beech and alder trees, whose stems were encircled by the twining
 tendrils of the "Liana," which oftentimes spanned the space overhead,
 and tempered the noonday sun by its delicious shade. Birds of gay
 plumage and strange note hopped from branch to branch, while hares and
-rabbits sat boldly on the grassy road, and scarcely cared to move at my
-approach The crimson-winged bustard, the swallow-tailed woodpecker,
+rabbits sat boldly on the grassy road, and scarcely cared to move at
+my approach. The crimson-winged bustard, the swallow-tailed woodpecker,
 with his snowy breast, and that most beautiful of all, the lazuli finch,
 whose color would shame the blue waters of the Adriatic, chirped and
 fluttered on every side. The wild squirrel, too, swung by his tail, and
@@ -11572,7 +11722,7 @@ thought I. Would one gradually sink down to the level of this animal
 existence, such as it appears now, or would one elevate the inferior
 animal to some equality of intelligence?
 
-The solitude which a short time previous had suggested--T know not
+The solitude which a short time previous had suggested--I know not
 now many!--bright imaginings, presented now the one sad, unvarying
 reflection,--desolation; and it had almost become a doubtful point
 whether I should not at once turn my horse's head and make for Upper
@@ -11762,10 +11912,6 @@ The Friar accepted my offer without much graciousness, but rather as
 that of an unwelcome guest who could not be easily got rid of.
 
 END OF VOL. I.
-
-
-
-*****
 
 
 
@@ -11987,11 +12133,12 @@ miles from Bexar, and not a village, nor even a log-hut, between us and
 that city. To go back was impossible; so that, like practical people, we
 at once addressed ourselves to the available alternative.
 
-"Picket your beast, and let us light a fire," said Fra Miguel, with the
-air of a man who would not waste life in vain regrets. "Thank Providence,
-we have both grass and water; and although the one always brings snakes,
-and the other alligators, it is better than to bivouac on the Red River,
-with iron ore in the stream, and hard flints to sleep on."
+"Picket your beast, and let us light a fire," said Fra Miguel, with
+the air of a man who would not waste life in vain regrets. "Thank
+Providence, we have both grass and water; and although the one always
+brings snakes, and the other alligators, it is better than to bivouac
+on the Red River, with iron ore in the stream, and hard flints to sleep
+on."
 
 Fastening my beast to a tree, I unstrapped my saddlebags and removed my
 saddle; disposing which most artistically in the fashion of an arm-chair
@@ -12094,8 +12241,8 @@ and lay still, I did not sleep. My thoughts were full of Donna Maria, of
 whom I weaved a hundred conjectures. It was evident she was young; her
 voice was soft and musical too, and had that pleasant bell-like cadence
 so indicative of a light heart and a happy nature. Why was she called
-the "Los Dolores"? I asked myself again and again what had she in
-her joyous-ness to do with grief and care; and why should she enter a
+the "Los Dolores"? I asked myself again and again what had she in her
+joyousness to do with grief and care; and why should she enter a
 convent and become a nun? These were questions there was no solving, and
 apparently, if I might judge from the cadence of her now deep sigh, no
 less puzzling to herself than to me. The more my interest became excited
@@ -12220,9 +12367,9 @@ some smattering of knowledge upon many a theme."
 
 "No matter; Fortune might favor me, and make me rich, and then,--and
 then,--who is to tell what changes might follow? The Caballero might bid
-adieu to the 'Placer,' and the fair 'Donna Maria' wave a good-bye to
-the nunnery--and, by the way, that is a very cruel destiny they intend
-for you."
+adieu to the 'Placer,' and the fair 'Donna Maria' wave a good-bye to the
+nunnery--and, by the way, that is a very cruel destiny they intend for
+you."
 
 "Who knows? I was very happy in the 'Sacred Heart.'"
 
@@ -12232,7 +12379,7 @@ loved, and will love in turn; think of that bright world of which the
 convent-window does not admit one passing glance. Think of the glorious
 freedom to enjoy whatever is beautiful in Nature, and to feel sympathies
 with all that is great and good; and reflect upon the sad monotony of
-the cloister,--its cold and cheerless existence, un cared for, almost
+the cloister,--its cold and cheerless existence, uncared for, almost
 unfelt."
 
 "And when the Superior is cross!" cried she, holding up her hands.
@@ -12454,7 +12601,7 @@ nor any lamplight, but by the glimmering stars we could see this
 strange encampment, which barely left a passage in the middle for the
 mule-carts.
 
-[Illustration: 363-18]
+
 
 Some of the groups were irresistibly droll: here was an old lady, with a
 yellow-and-red handkerchief round her head, snoring away, while a negro
@@ -12541,7 +12688,7 @@ eyes ever upward as his hopes were onward, his crest an eagle's, and
 his motto "higher," was no more. He had gone,--vanished, been dissipated
 into thin air; and in his place there sat, too weak to walk, a poor
 emaciated creature, with shaven head and shrunken limbs, a very wreck of
-humanity, pale, sallow, and miser-able as fever and flannel could paint
+humanity, pale, sallow, and miserable as fever and flannel could paint
 him.
 
 Yes, gentle reader, under the shade of a dwarf fig-tree, in the Leper
@@ -12660,8 +12807,8 @@ is perforated; Don Emanuel says not. Time will tell who 's right."
 "You mean when I'm dead, Señhor, of course?" cried I, not fancying the
 chance of resolving the difficulties by being carved alive.
 
-"Of course I do," said he. "Yours is a very instructive case; and I
-shall take care that your heart and a portion of the left lung be.
+"Of course I do," said he. "Yours is a very instructive case; and
+I shall take care that your heart and a portion of the left lung be
 carefully injected, and preserved in the museum."
 
 "May you live a thousand years!" said I, bowing my gratitude, while a
@@ -13494,8 +13641,8 @@ on the Sacramento, and in this wise. We had had a two months' run of
 luck at the Crestones of Bacuachez,--such fortune as I only hope we
 may soon see again; none of your filthy wash and sieve work, nor any
 splintering of a steel barreta on a flint-rock, but light digging along
-the stream, and turning up such masses of the real shining
-metal as would make your heart leap to look at,--lumps of
+the stream, and turning up such masses of the real shining metal
+as would make your heart leap to look at,--lumps of
 thirty,--thirty-five,--ay, forty pounds."
 
 "There, there, Harispe!" said an old fellow, with a long pipe of
@@ -13539,9 +13686,9 @@ time to tell how it happened, when he expired."
 "He got clear away; we gave chase for four days after him in vain. But a
 fellow with as much spare cash about him must have come to bad ere now."
 
-"The Injians has ripped him open afore this, depend on't," said
-another. "There 's scarce a snake of any size hasn't an emerald or
-splice of gold in him."
+"The Injians has ripped him open afore this, depend on't," said another.
+"There 's scarce a snake of any size hasn't an emerald or splice of gold
+in him."
 
 "There's more gold lies hidden by fellows that have never lived, or come
 back to claim it, than ye know of," said the old trapper; "and that's
@@ -13646,8 +13793,8 @@ myself. "What is it?" said I, disappointed at not seeing some great mass
 of yellow gold.
 
 "Don't you see? It is the fossil bone of the antelope," said Hermose;
-"and when the floods have penetrated deep enough to unbury that, there 's
-little doubt but we shall find gold enough."
+"and when the floods have penetrated deep enough to unbury that, there
+'s little doubt but we shall find gold enough."
 
 "Who says enough?" cried a Mexican, as, emerging half-suffocated from
 the water, he held aloft a pure piece of metal, nearly the size of a
@@ -13671,9 +13818,9 @@ that there is _as much_ as will repay us for the halt, is another
 question. My advice is, that we turn the river into another course,
 leave the present channel dry and open, and then explore it thoroughly."
 
-"Well spoken and true," said an old white-headed Gam-busino. "That is
-the plan in the Far West; and they are the only fellows who go right
-about their work."
+"Well spoken and true," said an old white-headed Gambusino. "That is the
+plan in the Far West; and they are the only fellows who go right about
+their work."
 
 The proposal was canvassed ably on all sides, and adopted with scarcely
 anything like opposition; and then parties were "told off," to carry
@@ -13760,7 +13907,7 @@ the red-deer, and the wild hog over the prairies.
 
 Many declined serving on this expedition, doubtless suspecting that
 the share of treasure which might be allotted to the absent man would
-undergo a heavy poundage. Her-mose, however, whose adventurous spirit
+undergo a heavy poundage. Hermose, however, whose adventurous spirit
 inclined more willingly to the excitement of the chase than the
 monotonous labor of a washer, volunteered to go, and I offered myself to
 be his companion. Some half-dozen of the youngest agreed to follow us,
@@ -13774,7 +13921,7 @@ necessity of storing up treasure for a set of walking gentlemen who
 passed the day in pleasure-rambles about the country, the other took
 care to express their discontent at returning loaded with spoils for a
 parcel of lazy impostors that lounged away their time on the bank of a
-river. Meanwhile, both pursuits nourished admirably. Practice had made
+river. Meanwhile, both pursuits flourished admirably. Practice had made
 us most expert with the rifle; and as we were fortunate enough to secure
 some of the "mustangs," and train them to the saddle, our "chasse"
 became both more profitable and pleasant. By degrees, too, little
@@ -13783,7 +13930,7 @@ our saddles, at first made of a mere wooden trestle, with a strip
 of buffalo hide thrown across it, were now ornamented with black
 bear-skins, or the more valuable black fox-skin; our own costume, if
 not exactly conformable to Parisian models, was comfortable and easy,--a
-brown deerskin tunic, fastened by a belt around the waist--, short
+brown deerskin tunic, fastened by a belt around the waist; short
 breeches, reaching to the knee-cap, which was left bare, for climbing;
 "botas vaqueras," very loose at top, and serving as holsters for our
 pistols; and a cap of fox or squirrel, usually designed by the wearer,
@@ -13815,12 +13962,12 @@ As for the "chasse" itself, it was glorious sport,--glorious in the
 unbounded freedom to wander whither one listed; glorious in the sense of
 mastery we felt that we alone of all the millions of mankind had reached
 this far-away, unvisited tract; glorious in its successes, its dangers,
-and its toils?
+and its toils!
 
 There was, besides, that endless variety of adventure prairie-hunting
 affords. Now, it was the heavy buffalo, lumbering lazily along, and
 tossing his huge head in anger as the rifle-ball pierced his dense hide.
-Now, it was the proudly an tiered stag, careering free over miles and
+Now, it was the proudly antlered stag, careering free over miles and
 miles of waste. At another time the grizzly bear was our prey, and our
 sport lay in the dense jungle or among the dwarf scrub, through which
 the hissing rattlesnake was darting, affrighted at the noise. In more
@@ -14281,23 +14428,23 @@ convict vice nor iniquity in which he was not thoroughly versed, nor
 could any scheme be hatched, the clew to which his dark ingenuity could
 not discover.
 
-[Illustration: 414-69]
+
 
 I was summoned before him on the day of my arrival, and certainly a
 greater contrast could not have been desired than was the bravery of his
 costume to the rags of mine. A Spanish hat and feathers, such as is only
 seen upon the stage, surmounted his great red and carbuncled face; a
 pair of fiery red moustaches, twisted into two complete circles, with a
-tail out of them like an eccentric "Q;" a sky-blue jacket covered with
-silver buttons; tight pantaloons of the same color; and Hessian
+tail out of them like an eccentric "Q;" a sky-blue jacket covered
+with silver buttons; tight pantaloons of the same color; and Hessian
 boots,--made up the chief details of a figure whose unwieldy size the
 tightness of the dress did not by any means set off to advantage. He
 wore besides a quantity of daggers, pistols, and stilettos suspended
 around his person, and a huge Barcelona blade hung by two silver chains
 from his side, the rattle and jingle of which, as he spoke, appeared to
-give him the most lively pleasure. I was ordered to stand before a table
-at which he sat, with a kind of secretary at his side, while he
-interrogated me as to who I was, whence I came, the object of my
+give him the most lively pleasure. I was ordered to stand before a
+table at which he sat, with a kind of secretary at his side, while
+he interrogated me as to who I was, whence I came, the object of my
 journey, and so forth. My account of myself was given in the very
 briefest way I could devise,--totally devoid of all coloring or
 exaggeration, and, _for me_, with a most singular avoidance of the
@@ -14305,10 +14452,10 @@ romantic; and yet, to my utter discomfiture, from the very announcement
 of my name, down to the last incident of my journey, he characterized
 every statement by the very short and emphatic word "a lie," desiring
 the secretary to record the same in his "Ledger," as his own firm
-conviction; "and add," said he, solemnly, "that the fellow is a spy from
-the States of North America,--that he probably belonged to some
-exploring party into our frontier,--and that he will most certainly be
-hanged whenever the smallest offence is proved against him." These
+conviction; "and add," said he, solemnly, "that the fellow is a spy
+from the States of North America,--that he probably belonged to some
+exploring party into our frontier,--and that he will most certainly
+be hanged whenever the smallest offence is proved against him." These
 benign words were most royally spoken, and I made my acknowledgments for
 them by taking off my tattered and greasy cap and, with a most urbane
 bow, wishing him health and happiness for half a century to come, to
@@ -14337,8 +14484,8 @@ convincing embarrassment, each went his way, leaving me standing with
 an old mule-driver, the only one who had not delivered himself of this
 speech.
 
-Now, it chanced that the well from which the village derived its name
-of "La Noria" had originally been worked by two mules, who having died
+Now, it chanced that the well from which the village derived its name of
+"La Noria" had originally been worked by two mules, who having died
 off, their places were supplied by two miserable asses of the prairie
 breed,--creatures not much bigger than sheep, and scarcely stronger.
 These wretched beasts had been for years past stimulated to their daily
@@ -14492,7 +14639,7 @@ with the rippling stream that murmured near.
 
 
 
-CHAPTER XXV. LA SEñHORA
+CHAPTER XXV. LA SEÑHORA
 
 To this very hour I am unable to say how long I remained at the village
 of La Noria. Time slipped away unchronicled; the seasons varied little,
@@ -14676,8 +14823,8 @@ uttered these words, convinced me that her faculties were not under
 the right control of reason, and I followed her with an interest even
 heightened by that sad impression.
 
-"You see no one, you speak to none," said she, turn-, ing round
-suddenly, "else I should bid you forget that you have ever seen me."
+"You see no one, you speak to none," said she, turning round suddenly,
+"else I should bid you forget that you have ever seen me."
 
 "Are we to meet again, Señhora?" said I, submissively, as I stood beside
 the door, of which she held the key in her hand.
@@ -15037,8 +15184,8 @@ all!"
 
 "It war n't far off from it," responded Seth; "but there 's a reward for
 the fellow's apprehension, and there it be!" and as he spoke he threw
-a printed handbill on the table, of which all that I could read with my
-swimming eyes were the words, "One Hundred Dollars Reward,"--"a mare
+a printed handbill on the table, of which all that I could read with
+my swimming eyes were the words, "One Hundred Dollars Reward,"--"a mare
 called Charcoal,"--"taking the down trail towards the San José."
 
 "There was no use in carrying that piece of paper so far," said I,
@@ -15051,9 +15198,9 @@ pitching it contemptuously away.
 "Mayhap, in strict law that might be something," said he, calmly; "but
 were I to chance upon him, why should n't I pass a running-knot over his
 wrists, and throw him behind me on one of my horses? Who's to say 'You
-sha' n't?' or who's to stop a fellow that can ride at the head of
-thirty well-mounted lads, with Colt's revolvers at the saddle-bow?--tell
-me that, boy!"
+sha' n't?' or who's to stop a fellow that can ride at the head of thirty
+well-mounted lads, with Colt's revolvers at the saddle-bow?--tell me
+that, boy!"
 
 "In the first place," said I, "the fellow who would let himself be taken
 and slung on your crupper, like a calf for market, deserves nothing
@@ -15177,7 +15324,7 @@ Were the seductions less attractive, it is not a man whose Irish blood
 has been set a-glowing with Spanish wine who is best fitted to
 resist them, nor assuredly ought Con Cregan to be selected for such
 self-denial. I stood in the circle with wondering admiration, delighted
-with everything. Oh, happy age I glorious hour of the balmy night!
+with everything. Oh, happy age! glorious hour of the balmy night!
 excellent grape-juice! how much of delicious enjoyment do I owe you all
 three! I suppose it is the case with every one, but I know it to be with
 me, that wherever I am, or however situated, I immediately single
@@ -15186,7 +15333,7 @@ landscape, I at once pitch upon the spot for a cottage, a temple, or a
 villa; if it be a house, I instantly settle in my mind the room I would
 take as my own, the window I would sit beside, the very chair I'd
 take to lounge in; if it be a garden, I fix upon the walk among whose
-«embowering blossoms I would always be found: and so, if the occasion be
+embowering blossoms I would always be found: and so, if the occasion be
 one of festive enjoyment, I have a quick eye to catch her whose air and
 appearance possess highest attractions for me. Not always for me the
 most beautiful,--whose faultless outlines a sculptor would like to
@@ -15251,8 +15398,8 @@ each other before."
 "Don't you see what it is?" said Seth. "It's the muchacha: she's his
 sweetheart, and she's been a-looking too long this way to please him."
 
-"Well, if the girl has got such good taste," said I, with a saucy
-laugh, "he ought to prize her the more for it."
+"Well, if the girl has got such good taste," said I, with a saucy laugh,
+"he ought to prize her the more for it."
 
 "She _is_ a neat un, that's a fact," muttered Seth; and at the same
 instant the girl walked proudly up to where I stood, and, making a low
@@ -15332,11 +15479,11 @@ Meanwhile the noise and confusion waxed louder and louder; and from the
 glances directed towards me there was very little doubt how strongly
 public opinion pronounced against me.
 
-"No, no!" broke in Seth,--in reply to some speech whose purport I
-could only guess at, for I did not hear the words,--"that would be a
-downright shame. Let the lad have fair play. There's a pretty bit of
-ground outside the garden, for either sword or pistol-work, whichever
-you choose it to be. I 'll not stand anything else."
+"No, no!" broke in Seth,--in reply to some speech whose purport I could
+only guess at, for I did not hear the words,--"that would be a downright
+shame. Let the lad have fair play. There's a pretty bit of ground
+outside the garden, for either sword or pistol-work, whichever you
+choose it to be. I 'll not stand anything else."
 
 Another very fiery discussion ensued upon this, the end of which was
 that I was led away by Seth and one of his comrades to my room, with the
@@ -15415,7 +15562,7 @@ funeral. "It 's costly hereabouts," said he, growing quite lively on the
 theme. "They put ye in a great basket, all decked with flowers, and they
 sticks two big oranges or lemons in your hands; and the chaps as carry
 you are dressed like devils or angels, I don't much know which,--and
-they do make such a cry, My eye for it, but if you was n't dead, you 'd
+they do make such a cry! My eye for it, but if you was n't dead, you 'd
 not lie there long and listen to 'em!"
 
 Now, although the subject was not one half so amusing to me as it
@@ -15427,10 +15574,10 @@ liberality.
 
 "Don't distress yourself about that," said he; "I 'll learn a lot of
 prayers in Latin myself,--' just to help you on,' as a body might say.
-But, as I live, there goes the chaps to the 'Molino';" and he pointed
-to a group of about a dozen or more, who, wrapped up in their large
-cloaks, took the way slowly and silently through the tall wet grass at
-the bottom of the garden.
+But, as I live, there goes the chaps to the 'Molino';" and he pointed to
+a group of about a dozen or more, who, wrapped up in their large cloaks,
+took the way slowly and silently through the tall wet grass at the
+bottom of the garden.
 
 I have ever been too candid with my kind reader to conceal anything from
 him. Let him not, therefore, I beg, think the worse of me if I own
@@ -15561,15 +15708,15 @@ on the subject of my sabre, which the villano's friend insisted was
 at least eight or nine inches too long. Seth, however, was equally
 obstinate in asserting that I had always used it, had fought repeated
 duels with it; and if we could not call the principals as witnesses,
-it was for certain cogent reasons that need not be mentioned. How
-I chuckled at this bit of boastfulness! how I prayed that it might
-terrify the enemy! Nothing of the kind; the semi-savage stepped out into
-the circle, with his shirt-sleeve rolled up to the shoulder, displaying
-an arm whose muscular development was like knotted cordage. As if to
-give a foretaste of what he intended for me, he clove down the stout
-branch of an elm-tree with a single stroke and with the ease of a man
-slicing a cheese. Never did I think so meanly of a fandango as at that
-moment; never was I in a mood less lenient to female coquetry!
+it was for certain cogent reasons that need not be mentioned. How I
+chuckled at this bit of boastfulness! how I prayed that it might terrify
+the enemy! Nothing of the kind; the semi-savage stepped out into the
+circle, with his shirt-sleeve rolled up to the shoulder, displaying an
+arm whose muscular development was like knotted cordage. As if to give a
+foretaste of what he intended for me, he clove down the stout branch of
+an elm-tree with a single stroke and with the ease of a man slicing a
+cheese. Never did I think so meanly of a fandango as at that moment;
+never was I in a mood less lenient to female coquetry!
 
 "All's ready, Con, my hearty," whispered Seth, leaning over my shoulder;
 "here's the tool."
@@ -15580,7 +15727,7 @@ too late for regrets; and already the group had retired, leaving the
 villano standing in a position of formidable defence alone in the
 circle.
 
-[Illustration: 450-102]
+
 
 I can remember that I walked calmly and slowly forward to the spot
 assigned me. I can remember the word being given to draw swords, and I
@@ -15728,7 +15875,7 @@ exception, exaggerated and high-flown accounts of newly discovered
 some in the deep forests of Mexico, some in the interior of Africa
 and on the far-away shores of the Pacific. Promises of golden harvest,
 visions of wealth rolling in vast abundance, great oceans of gain before
-the parched and thirsting lips of toil and famine I Little thought they
+the parched and thirsting lips of toil and famine! Little thought they
 who, half in the wantonness of fancy, colored these descriptions, what
 seeds they were sowing in many a rugged nature! what feverish passions
 they were engendering! what lures to wile men on and on, through youth
@@ -15835,7 +15982,7 @@ rotting or decomposition. I drew forth my knife and ripped it open;
 a strong skin of undressed buck was now laid bare; again I applied my
 knife vigorously to this, and as the sharp steel ran freely along,
 a glittering heap of gold disclosed itself before me, and rolled in
-fragmente to my feet!
+fragments to my feet!
 
 I cannot attempt to describe the emotions of that moment, as, with
 a heart bursting with delight, I ran my fingers through the heaps of
@@ -15902,7 +16049,7 @@ rapine; but let us see if the Church cannot purify them. A silver lamp
 to the Virgin can throw a lustre upon deeds that have not 'loved the
 light.' An embroidered petticoat can cover a great many small sins, and
 the incense that rises from a gold censer, offered by pious hands, will
-do much to correct the pungency of even the sal test tears."
+do much to correct the pungency of even the saltest tears."
 
 Build a chapel, Con; endow a nunnery,--or, if you don't like shutting
 up young ladies, let it be a "monkery;" make an investment in hair-cloth
@@ -16025,7 +16172,7 @@ out my inventions among stupid folk as a rich man flings his guinea
 among a group of beggars, to enjoy the squabbling and contending for
 such an unlooked-for prize.
 
-And now I was going to abandon the habit, as one un-suited to the
+And now I was going to abandon the habit, as one unsuited to the
 responsibilities of a rich man's station! Oh, dear, what a sigh honest
 Jack Falstaff must have heaved when he swore "he would eschew sack and
 low company, and live cleanly."
@@ -16109,8 +16256,8 @@ lawless violence was unrestrained,--the fortress-like character of
 the buildings was often conspicuous. Massive iron bars and stanchions
 protected the windows of the ground-floors; heavy fastenings secured
 the doors, whose surface was a fretwork of iron. Loop-holes for musketry
-usually guarded each side of the entrance, and a "grille," like that of
-a convent, showed that no stranger could be admitted un interrogated.
+usually guarded each side of the entrance, and a "grille," like that
+of a convent, showed that no stranger could be admitted uninterrogated.
 Many of the houses were surrounded by regular outworks of moat and
 bastion, while here and there an old rusty cannon, half hid among the
 weeds, would show more pretentious, though possibly not very efficient,
@@ -16131,7 +16278,7 @@ their natural pastime.
 
 Upon several of the altars, pieces of solid gold and silver lay, in a
 security that said much for the religious zeal of the inhabitants, while
-lamps of pure silver hung in a profusion on 'wery side,--surrounded by
+lamps of pure silver hung in a profusion on every side,--surrounded by
 votive offerings of the same metal,--such as shovels, barretas, picks,
 and sieves. Nor did piety limit itself merely to incentives to "stand
 well with the saints;" some most terrible examples of the opposite line
@@ -16444,13 +16591,13 @@ or great in reputation, and that around me, as I stood, a group was
 gathered of all that was distinguished in the world of fashion or
 celebrity. "Your Royal Highness has made this the proudest day of my
 life," said I, rising, and bowing reverentially before a faded old
-arm-chair. "May I offer your Eminence a seat," continued
-I to a red sofa-cushion I mistook for a cardinal. "Your Excellency
-is most heartily welcome," said I to an empty decanter. And so did I
-convert every adjunct of the chamber into some distinguished personage,
-even, to my fast expiring lamp, which, with a glimmering flame and a
-nauseous odor, was gradually dying away, and which I actually addressed
-as a great ambassador!
+arm-chair. "May I offer your Eminence a seat," continued I to a red
+sofa-cushion I mistook for a cardinal. "Your Excellency is most heartily
+welcome," said I to an empty decanter. And so did I convert every
+adjunct of the chamber into some distinguished personage, even, to my
+fast expiring lamp, which, with a glimmering flame and a nauseous odor,
+was gradually dying away, and which I actually addressed as a great
+ambassador!
 
 After this, I conclude that I must have imagined myself in the
 East,--possibly taking a cup of sherbet with the Sultan, or a chibouk
@@ -16530,8 +16677,8 @@ Guajuaqualla. "These would," I added, "have been dispersed through the
 various channels of trade, had it not been the wish of my partners to
 open distinct relations with your house, and consequently they have
 retained the papers until a favorable occasion presented itself of
-personally making the proposition. This happy opportunity has arisen by
-our recent purchase of the great gold mines of the 'Arguareche' for
+personally making the proposition. This happy opportunity has arisen
+by our recent purchase of the great gold mines of the 'Arguareche' for
 seventy millions of piastres, of which you may have read in the 'Faros
 de la Habanas.'"
 
@@ -16682,7 +16829,7 @@ the reverence due to me; and when at length we reached the gates of the
 court-yard, they announced my name with a grandeur and pomp of utterance
 that, I own it frankly, actually appalled myself! I had not, however,
 much time given me for such weaknesses, as, directly in front of the
-villa, at a table spread beneath an awning of blue silk, at a goodly
+villa, at a table spread beneath an awning of blue silk, sat a goodly
 company, whose splendor of dress and profusion of jewellery bespoke them
 the great guests of the occasion. The host--it was easy to detect him
 by the elevated seat he occupied--rose as I came forward, and, with a
@@ -16768,7 +16915,7 @@ limb, and hugged, kissed, and embraced by a score of people, the large
 majority of whom, I grieve to say, were the very hardest specimens of
 what is called the softer sex.
 
-[Illustration: 484-135]
+
 
 One member of the company maintained a look of cold distrust towards me,
 the very opposite of all this cordiality. This was Don Lopez, who did
@@ -16879,7 +17026,7 @@ bank-note of some amount, and gently drew it across his knuckles.
 
 A slight tremor shook his frame, and a short, convulsive motion was
 perceptible in the hand I had "galvanized;" but in an instant, with his
-habitual calm smile and mellow Toice, he said, "Your piety will bring
+habitual calm smile and mellow voice, he said, "Your piety will bring
 a blessing upon you, Señhor, but our poor shrine is unused to such
 princely donations."
 
@@ -17333,10 +17480,10 @@ sophistries by which we cover up our real feelings in this life,
 smothering every healthy impulse and every generous aspiration, under
 the guise of some "conventionality."
 
-My conscience was less lenient than I expected. I cut but a sorry
-figure "in the dock," and was obliged to throw myself upon the mercy
-of the court. I will be more considerate in future, said I to myself;
-I will be less exacting with my servants, and more forgiving to their
+My conscience was less lenient than I expected. I cut but a sorry figure
+"in the dock," and was obliged to throw myself upon the mercy of the
+court. I will be more considerate in future, said I to myself; I will
+be less exacting with my servants, and more forgiving to their
 delinquencies; I will try and remember that there is an acid property in
 poverty that sours even the sweetest "milk of human kindness." I will
 be trustful, too,--a "gentleman" ought not to be suspicious; it is
@@ -17372,9 +17519,9 @@ as to the Consul, what shall we say to him?"
 "Consul, did you say?" said I.
 
 "Yes, Señhor Condé, he is the French Consul for the Republic of
-'Campecho.'" That this was a State I had never heard of before, was quite
-true; yet it was clearly one which the French Government were better
-informed upon, and deigned to recognize by an official agent.
+'Campecho.'" That this was a State I had never heard of before, was
+quite true; yet it was clearly one which the French Government were
+better informed upon, and deigned to recognize by an official agent.
 
 "Hold on there a bit!" shouted out the captain to the boat's crew.
 "What shall I say, Señhor Condé? The Chevalier de la Boutonerie is very
@@ -17400,7 +17547,7 @@ had so long been a student, and that he was a consummate adept in the
 And how mistaken is the world at large in the meaning of that art!
 How prone to call the unblushing effrontery of every underbred man
 impudence! The rudeness that dares any speech, or adventures upon
-any familiarity; the soul less, heartless, selfish intrusiveness that
+any familiarity; the soulless, heartless, selfish intrusiveness that
 scruples not to invade any society,--these are not impudence, or they
 are such specimens of the quality as men only possess in common with
 inferior animals. I speak of that educated, cultivated "impudence"
@@ -17455,14 +17602,14 @@ once spoke of, "savait corriger la fortune."
 Although he spoke freely of the fashionable world of Paris and London,
 with all whose celebrities he affected a near intimacy, he rarely
 touched upon his New World experiences, and blinked all allusion
-whatever to the republic of "Campecho." His own history was
-comprised in the brief fact that he was the cadet of a great family
-of Provence,--all your French rogues, I remark, come from the South of
-France,--that he had once held a high diplomatic rank, from which, in
-consequence of the fall of a ministry, he was degraded, and, after many
-vicissitudes of fortune, he had become Consul-General at Campecho. "My
-friends," continued he, "are now looking up again in the world, so that
-I entertain hopes of something better than perpetual banishment."
+whatever to the republic of "Campecho." His own history was comprised in
+the brief fact that he was the cadet of a great family of Provence,--all
+your French rogues, I remark, come from the South of France,--that he
+had once held a high diplomatic rank, from which, in consequence of the
+fall of a ministry, he was degraded, and, after many vicissitudes
+of fortune, he had become Consul-General at Campecho. "My friends,"
+continued he, "are now looking up again in the world, so that I
+entertain hopes of something better than perpetual banishment."
 
 Of English people, their habits, modes of life, and thought, the
 Chevalier spoke to me with a freedom he never would have used if he
@@ -17571,9 +17718,9 @@ perceive here this four of clubs, which, as the first card we turn,
 assumes to indicate your commencement in life. Now, only fancy, Monsieur
 le Comte, what this most insolent little demon would insinuate. Really,
 I cannot continue. Well, well, be it so. This card would say that you
-were not only born without rank or title, but actually in a condition of
-the very meanest and most humble poverty. Isn't that excellent?" said
-he, bursting out into a fit of immoderate laughter, in which the
+were not only born without rank or title, but actually in a condition
+of the very meanest and most humble poverty. Isn't that excellent?"
+said he, bursting out into a fit of immoderate laughter, in which the
 spiteful glance of his keen eyes seemed to pierce through and through
 me.
 
@@ -17682,8 +17829,6 @@ of the world with adventurers,--in plain words, a Pole."
 lived some years in that country," said he, hastily; "but I have yet to
 learn that he forfeited his nationality by so doing."
 
-[Introduction: 507-158]
-
 "I only know what the cards tell me," said I, spreading out a mass of
 them before me, and pretending to study them attentively; "and here is a
 complication which would need a cleverer expositor than I am. Of all
@@ -17790,8 +17935,8 @@ disembarking, or might it be something worse? and, if so, what? Every
 moment increased the trouble of my thoughts. Certainly, misfortunes do
 cast their shadows before them, for I felt that strange and overwhelming
 sense of depression that never is causeless. I ran over every species
-of casualty that I could imagine, but except highway robbery,
-actual "brigandage," I could not fancy any real positive danger to be
+of casualty that I could imagine, but except highway robbery, actual
+"brigandage," I could not fancy any real positive danger to be
 anticipated from the Chevalier.
 
 How different was my mood from what I expected it would have been on
@@ -17807,14 +17952,12 @@ That I did not overrate the peril before me, events soon proved.
 
 CHAPTER XXIX. THE CARCEL MORENA AT MALAGA
 
-As we sailed proudly into the harbor of
-
-Malaga, my attention--at first directed to the striking features of the
-shore, where lay a city actually embowered amid orange-groves--was
-soon drawn off by the appearance of a boat, rowed by twelve men, which
-approached the ship. The national flag of Spain floated from a standard
-in her stern, and I could mark the glitter of arms and uniforms on board
-of her.
+As we sailed proudly into the harbor of Malaga, my attention--at
+first directed to the striking features of the shore, where lay a
+city actually embowered amid orange-groves--was soon drawn off by the
+appearance of a boat, rowed by twelve men, which approached the ship.
+The national flag of Spain floated from a standard in her stern, and I
+could mark the glitter of arms and uniforms on board of her.
 
 "The officers of health, I suppose?" said I, carelessly, to the captain.
 
@@ -17894,7 +18037,7 @@ wherein I was called a native of Grenada and a noble of Spain.
 "It is a principle of law in my native land that no prisoner is called
 upon to criminate himself," said I.
 
-"In that case you are no Spaniard," said the officer, Shrewdly, "nor,
+"In that case you are no Spaniard," said the officer, shrewdly, "nor,
 indeed, does your accent so bespeak you. You are now under arrest."
 He opened the door as he said this, and, pointing me out to the two
 sentries, whispered something too low for me to overhear. This done, he
@@ -18067,9 +18210,10 @@ being death. What is your name?"
 
 "With what object, and where?"
 
-"In the prairies of South America, to shoot red-deer.". "Remember, sir,"
-said the General, "this is no occasion for untimely jest; these sallies
-may cost you more dearly than you think for."
+"In the prairies of South America, to shoot red-deer."
+
+"Remember, sir," said the General, "this is no occasion for untimely
+jest; these sallies may cost you more dearly than you think for."
 
 "If I am to speak the truth," said I, boldly, "I must answer as I have
 done. If you want fiction, I 'm ready for you at a moment's notice."
@@ -18142,9 +18286,9 @@ foreign orders, entered.
 
 "Do you know this gentleman?" said the General, dryly.
 
-"I know him for a Pole whose name is Alexis Radchoffsky--at least,
-under such a name he once lived in London, and is well known to the
-police there."
+"I know him for a Pole whose name is Alexis Radchoffsky--at least, under
+such a name he once lived in London, and is well known to the police
+there."
 
 "Go on," said the General to the secretary. "On being confronted with
 the Señhor Ruy Peres, the prisoner became suddenly abashed, and at
@@ -18222,7 +18366,7 @@ the bypaths of life, and take his course in its very widest and busiest
 thoroughfares?
 
 The occupations in which I passed my days greatly contributed to sustain
-this pleasant illusion. I was eternally-writing letters, memorials,
+this pleasant illusion. I was eternally writing letters, memorials,
 statements of facts, and what not, of interminable narratives, to all
 our ministers and consuls, invoking their aid, and protesting in the
 name of the British nation against the unwarrantable tyranny of my
@@ -18231,6 +18375,7 @@ mine seemed to meet but sorry acceptance. For a length of time no
 acknowledgment of their reception ever reached me; but at last the
 following dry epistle informed me that my memorials had reached their
 destination:--
+
 
      "Sir,--I am directed by the Secretary of State for
      Foreign Affairs to acknowledge the receipt of your memorials
@@ -18259,7 +18404,6 @@ destination:--
      "Joseph Backslip.
 
      "To Cornelius Cregan, Esq."
-
 
 This was a sad damper! To think that I was to lose the immense amount
 of property with which I had embarked,--the gems and jewels, the rare
@@ -18297,8 +18441,8 @@ sign of a querulous nature, and seemed to say, "My time will come yet!"
 
 At last it appeared either as if my memorials were never opened, or,
 if opened, never read. No answer came whatever! and even the Malaga
-newspapers, which, in the dearth of shipping intelligence, would often
-insert some little notice of me, stating how "the 'Conde' walked
+newspapers, which, in the dearth of shipping intelligence, would
+often insert some little notice of me, stating how "the 'Conde' walked
 yesterday for an hour upon 'the leads';" "the 'Condé' partook with an
 appetite of a partridge, and conversed freely with the officer on duty,"
 and so on,--now they never by any chance alluded to me; and I seemed,
@@ -18461,7 +18605,7 @@ sought shelter or made ready for sea, in expectation of the "gale." The
 impenetrable darkness, the roaring wind, the flashing of the lights,
 the cries of the seamen, the hurrying of feet along the quays, and the
 sounds of different boats' crews departing in haste,--all gave a charm
-to a scene of which the obscurity increased the iuterest. A large French
+to a scene of which the obscurity increased the interest. A large French
 steamer was to have sailed that night for Marseilles; but I overheard a
 voice from the street foretelling that the "Gazonne" might leave without
 her passengers, "as no one would go on board of her on such a night." A
@@ -18469,7 +18613,7 @@ red lantern at the peak indicated the vessel, and I could see that she
 had changed her position and "taken up a berth" farther out in the bay.
 
 I cannot tell by what instinct I selected her as a peculiar object of my
-iuterest, but so it was. I watched her unceasingly, and rarely took my
+interest, but so it was. I watched her unceasingly, and rarely took my
 eyes from the quarter where she lay; and when the heaving motion of the
 "red light" showed that she was tossing in a heavy sea, I listened too
 with eagerness to catch anything from those that passed beneath that
@@ -18538,7 +18682,7 @@ sound of my heavy body over his head would be rather an admonition to
 stay quietly within than risk himself outside, to the danger of tumbling
 tiles or masses of masonry from the parapet. The more I reflected upon
 this, the clearer I saw that the storm was a Heaven-sent accident for
-me; thai the darkness, the tumult, and the deserted streets were all
+me; that the darkness, the tumult, and the deserted streets were all
 accessories the most favorable; that to neglect such an occasion of
 escape would be downright madness. If I took some time to arrive at this
 conclusion, I made up for the delay by the rapidity of my subsequent
@@ -18575,7 +18719,7 @@ force against the roof of the sentry-box, striking it with both my feet
 together at the same instant, that my cord snapped short in the very
 centre.
 
-[Illustration: 530-181]
+
 
 The force of my fall, added to the previous blow, capsized the
 sentry-box, and I came to the ground along with it, in a state of
@@ -18748,10 +18892,10 @@ to see, and what to avoid,--were all at his dictation; while from the
 landlord came a perfect volley of civilities that plainly showed who was
 the real personage to whom adulation was due. If my masters dined on a
 chicken, _I_ fed upon ortolans; while _they_ made wry faces over their
-"Chianté," I luxuriated on Château La Rose or Chambertin. For _my_
-table were reserved the oysters of Venice, the fresh "sardines" of
-Gorgona, the delicate mutton of Pistoja, the delicious Becafica of the
-Vai d'Arno, while Piscia was ransacked for my dessert, till I saw myself
+"Chianté," I luxuriated on Château La Rose or Chambertin. For _my_ table
+were reserved the oysters of Venice, the fresh "sardines" of Gorgona,
+the delicate mutton of Pistoja, the delicious Becafica of the Vai
+d'Arno, while Piscia was ransacked for my dessert, till I saw myself
 surrounded with rarities that even in my great days I scarcely dreamed
 of.
 
@@ -18917,8 +19061,8 @@ people achieve the attainments you speak of. Even a smattering of such
 knowledge would seem to require both time and study."
 
 "They have but a smattering," said I; "yet it is gained exactly in
-the very school where such small proficiency goes farthest,--'
-the world'--and which you will one day discover has its sources of
+the very school where such small proficiency goes farthest,--'the
+world'--and which you will one day discover has its sources of
 knowledge, its tests of ability, ay, and its degrees of honor, marked
 out as palpably as Oxford and Cambridge. There is this advantage, too,
 sir, over the university,--the track in which you are to travel
@@ -19005,7 +19149,7 @@ trudged along towards the Embassy. All my hope lay in the prospect of an
 interference on the part of the English Government, and the demand of an
 indemnification for my loss.
 
-After some little delay, and a Blight catechizing on the part of a bulky
+After some little delay, and a slight catechizing on the part of a bulky
 porter in scarlet livery, I was admitted to a room where a number of
 people, chiefly couriers and "Laquais de Place," were assembled, to
 obtain signatures or passports, and who were summoned from time to time
@@ -19041,11 +19185,10 @@ encouragement."
 
 "But Puzzleton certainly corresponded with him.''
 
-"Of course he did, to prevent the Opposition making a handle of his
-case in 'the House;' but he soon saw the whole thing was a trumped-up
-charge, and as we want to go on smoothly with the Madrid Government, it
-would be absurd to disturb our relations for the sake of a fellow like
-this."
+"Of course he did, to prevent the Opposition making a handle of his case
+in 'the House;' but he soon saw the whole thing was a trumped-up charge,
+and as we want to go on smoothly with the Madrid Government, it would be
+absurd to disturb our relations for the sake of a fellow like this."
 
 "Oh, that's it," said the _attaché_, catching a faint glimmering of the
 secret machinery of diplomacy.
@@ -19079,7 +19222,7 @@ statement, and at one time held out some hope of redress."
 requiring a grievance just then, my case was naturally shelved."
 
 He started, bit his lip, and evinced unmistakable signs of being ill at
-ease. "In fact," resumed I, growing wanner as I proceeded, "no further
+ease. "In fact," resumed I, growing warmer as I proceeded, "no further
 notice was taken of me than what barely sufficed to take my case out
 of the hands of Opposition members. I was assumed to be an impostor,
 because the moment was not favorable to believe me honest. Good
@@ -19132,7 +19275,7 @@ Corneille; and as to nationality, there need be little difficulty.
 Whenever a man talks indifferent Spanish, he says he is from the Basque.
 If he speaks bad German, he calls himself an Austrian. So I, if there be
 any irregularities in my regular verbs, will coolly assert that I am a
-brave Beige and a subject of King Leopold; and if humility be a virtue,
+brave Belge and a subject of King Leopold; and if humility be a virtue,
 this choice of a native land ought to do me credit."
 
 I raised my head from my musings at this moment, and found myself at
@@ -19140,8 +19283,8 @@ the corner of the Rue Goguenarde, exactly opposite a house covered with
 placards and announcements, from the street to the third story, a great
 board with gilt letters, over the entrance, proclaiming it the "Bureau
 des Affiches" for all nations. Nor was the universality a mere pretence,
-as a single glance could show the range of advertisements, taking in
-everything, from an estate in Guadaloupe to a neat chamber in the
+as a single glance could show the range of advertisements, taking
+in everything, from an estate in Guadaloupe to a neat chamber in the
 Marais; from a foundry at Lyons to the sweeping of a passage in the Rue
 Rivoli. All the nostrums of medicine, all the cheap appliances of the
 toilet, remedies against corpulence, perventives to extreme emaciation,
@@ -19267,8 +19410,8 @@ on the stairs stop not at his door, and the wearisome sinking of the
 heart as the sounds die away in the distance, and leave him to the
 silence of his own despair. If I had not to feel the corroding regrets
 of him who has toiled long and ardently for the attainment of a
-knowledge that now lies in rust, unused, unasked for, unwanted, I had
-to learn what are his tortures who waits till the world call him.
+knowledge that now lies in rust, unused, unasked for, unwanted, I had to
+learn what are his tortures who waits till the world call him.
 
 There I sat in all my "bravery." What a contrast between my sleek
 exterior and the half-famished creature within! Sometimes my impatience
@@ -19286,18 +19429,18 @@ persuaded themselves that the rich are thieves, and the poor the just
 inheritors of the gains, had knocked down many a mock idol besides
 monarchy. Men no longer threw a pinch of salt over their left shoulder
 when they upset the salt-cellar; did n't pierce their egg-shell, lest
-the fairies might make a boat of it; and so, among many other remains
-of the custom of our ancestors abandoned, they sat clown to dinner,
-careless whether the party were thirteen or thirty.
+the fairies might make a boat of it; and so, among many other remains of
+the custom of our ancestors abandoned, they sat down to dinner, careless
+whether the party were thirteen or thirty.
 
 "I might as well try and revive astrology," thought I, "as seek to trade
 upon superstition in this unbelieving age! I doubt if all Paris contains
 another quatorzième than myself; the old villain knew the trade was
 ruined, when he sold me his 'goodwill' of the business."
 
-I was in the very deepest and darkest abyss of these gloomy thoughts one
-evening, when a heavy down-pour of rain, and the sorrowful moan
-of a December wind, added melancholy to my wearied spirit. It was such
+I was in the very deepest and darkest abyss of these gloomy thoughts
+one evening, when a heavy down-pour of rain, and the sorrowful moan of
+a December wind, added melancholy to my wearied spirit. It was such
 a night that none would have ventured out who could have claimed the
 humblest roof to shelter him. The streets were perfectly deserted, and,
 early as it was, the shops were already closed for the night. The very
@@ -19393,8 +19536,8 @@ company at dinner to-day. I made the inquiry with a direct object. My
 name is Paul de Minérale."
 
 "Not the distinguished writer, the inimitable novelist, the delightful
-composer of the 'Curate's Niece,' 'The Path through the Vineyard,'
-'The Rose of Auteuil'?"
+composer of the 'Curate's Niece,' 'The Path through the Vineyard,' 'The
+Rose of Auteuil'?"
 
 "I am much flattered," said he, cutting short my enumeration, "to
 discover so ardent an admirer of my poor productions; but, as time
@@ -19459,7 +19602,7 @@ with their gigantic limbs, I sat in a revery of sweet and delightful
 fancies, the only alloy to my ecstasy being a passing fear that at
 each moment shot through me: Can this be real? Am I awake? or has
 long fasting so weakened my faculties that this is but a delusion; and
-instead of hastening to a dinnerparty with a royal guest, I am speeding
+instead of hastening to a dinner-party with a royal guest, I am speeding
 onwards to a prison, or, mayhap, a madhouse. These fancies, at first but
 fitful and at intervals, became at length so distressing that I was on
 the very point of communicating them to my companion, and asking for his
@@ -19481,14 +19624,14 @@ me through his glass. "Present me, Paul."
 "The author of the 'Fancies by Starlight,'" said I, bowing with a most
 respectful devotion.
 
-"Guilty, sir! and of fifty other indiscretions to the fall as great,"
+"Guilty, sir! and of fifty other indiscretions to the full as great,"
 said he, laughing.
 
-"Ah, sir, I know it by heart; that stanza on the 'Waled Letty' haunts
-me like a dream."
+"Ah, sir, I know it by heart; that stanza on the 'Waled Letty' haunts me
+like a dream."
 
-"Sharp fellow, our friend the 'quatorzième'!" whispered Alphonse to
-Paul as we walked along towards the drawing-room.
+"Sharp fellow, our friend the 'quatorzième'!" whispered Alphonse to Paul
+as we walked along towards the drawing-room.
 
 How I should like to dwell upon the details of that dinner, the most
 delightful entertainment of my whole life! It needed not the sudden
@@ -19513,7 +19656,7 @@ was in commemoration of the young Prince beside him, a hero of
 
 Nothing could be more easy or familiar than the tone of
 conversation,--that happy pleasantry that tickles but never wounds, so
-unlike the English propensity for "quizzing "--that vulgar version
+unlike the English propensity for "quizzing"--that vulgar version
 of Gallic "badinage;" and then how eloquent, without pedantry, how
 sparkling, and how suggestive! Ah, my kind reader, I see the rippling
 smile over the broad Atlantic of your countenance. You have guessed all
@@ -19521,7 +19664,7 @@ the secret of my enthusiasm, and you know the mystery of my admiration.
 Be it so; I am ready to confess all. It was my own success that made
 the chief enchantment of the scene. I was the lion of the evening. Not
 a theme on which I did not hold forth, not a subject I did not
-discuss,--politics, bull-fighting, cookery, dress, literature, duelling.
+discuss,--politics, bull-fighting, cookery, dress, literature, duelling,
 the ballet, horse-racing, play, scandal, naval tactics, colonization,
 cotton-spinning, music, railroads, and the "dry-rot." I was profound,
 playful, serious, jocose, instructive, and amusing by turns. Madmlle. de
@@ -19542,7 +19685,7 @@ I taught to sit squaw fashion; told various anecdotes of my prairie
 adventures; and wound up all by concocting a bowl of "ponch à
 l'Américaine," at once the astonishment and the delight of all. I must
 not suffer myself to dwell longer on this theme, nor speak of that
-supper, with its champagne and culerabourgs, its lyrics and its lobster
+supper, with its champagne and culembourgs, its lyrics and its lobster
 salads, with ortolans, epigrams, seductive smiles, and maraschino jelly.
 Enough. The orgies--for it was no less--lasted till nigh morning; and
 when we arose from table, a pale streak of coming day was struggling
@@ -19581,7 +19724,7 @@ unhappy street, his Royal Highness never evinced any surprise whatever,
 but sat patiently to the end of the discussion, without vouchsafing even
 a word upon the subject.
 
-"This must be the house, number 21,7'8," said the chasseur, at length;
+"This must be the house, number 21,748," said the chasseur, at length;
 and we drew up at the well-known door, where the old porter sat reading
 on one side, while his wife was peeling carrots at the other.
 
@@ -19604,7 +19747,7 @@ sat in that crazy old chair, and stretched my limbs upon that wretched
 pallet? Can it be real? or which is the delusion,--my recent splendor,
 or my present squalor?" Although up all night, I was far too much
 excited for sleep, even could I have persuaded myself to seek it on so
-bumble a couch. I therefore set myself to think over the future, and
+humble a couch. I therefore set myself to think over the future, and
 wonder whether the brilliant scene in which I had so lately mixed would
 remain in its isolated brightness amid the desolation of my life, or
 be the guide-star to future greatness and distinction. My late success
@@ -19614,9 +19757,9 @@ make restitution of my property; or what if the Mexican banker should be
 a true man, and acknowledge my claim upon him?" "If I could but enlist
 the Prince in my cause," thought I again, "how certain should I be of
 the issue! French influence always was powerful in Spain. Napoleon used
-to say, 'There were no Pyrenees;' I should be content if there were
-only a good road over them to convey the despatches that might assert my
-just right."
+to say, 'There were no Pyrenees;' I should be content if there were only
+a good road over them to convey the despatches that might assert my just
+right."
 
 A quick step upon the stairs at that instant caught my ear; few ever
 ascended so high up as my story, so I listened, and almost at once my
@@ -19714,7 +19857,7 @@ you could have in supposing me to be an impostor and a cheat?"
 the story that you have just told me were fiction, I could give you
 three hundred francs a day to write feuilletons for the 'Débats.' If
 one-half of it were even invention, you 'd be worth two hundred on the
-'Siècle'or the 'Presse;' say you stole the material, and you 'd still
+'Siècle' or the 'Presse;' say you stole the material, and you 'd still
 do admirably for the 'Mode.'
 
 "Are you--so conversant with a hundred thousand things--ignorant that
@@ -19804,7 +19947,7 @@ My career as a _litterateur_ began the next day, and I received a
 short editorial summons from the office of "La Tempête" to furnish a
 feuilleton of a hundred and twenty-four lines; the postscript adding
 that as Admiral Du Guesclin had just arrived from Macao, some "esquisses
-des mours Chinoises" would be well timed. Of China I only knew what a
+des moeurs Chinoises" would be well timed. Of China I only knew what a
 lacquered tea-tray and the willow pattern could teach me; but I set to
 work at once, and by assuming my sketches to be personal adventures and
 experiences, made up a most imposing account of Chinese domesticity.
@@ -19853,7 +19996,7 @@ drama!
 
 As for the fairer portion of our guild, being for the most part
 ostracized in general society, they bore a grudge against their sex,
-and affected a thousand airs of mannishuess. Some always dressed in male
+and affected a thousand airs of mannishness. Some always dressed in male
 attire; many sported little moustaches and chin-tufts, rode man-fashion
 in the Bois de Boulogne, fought duels; and all smoked. Like other
 converts, they went farther in their faith than the old believers, and
@@ -19930,7 +20073,7 @@ Full of these thoughts, I repaired one morning to the Trou-aux-Bois,
 where fortunately I found my friend Paul alone,--at least, except three
 secretaries, to whom he was dictating by turns, he had no one with him!
 "Wait till I have finished this 'Attack of Wolves on a Caravan,'" said
-he, "and the 'Death of Jules de Tavanne by Poison.' and I 'm your
+he, "and the 'Death of Jules de Tavanne by Poison,' and I 'm your
 man. Meanwhile, step into my study; there are masses of newspapers and
 letters which you can read freely."
 
@@ -19955,7 +20098,7 @@ it, not because it is the best, but because it is the only policy; and,
 above all, be slow in changing a career where you have met with success.
 The best proof that it suits you is, that the public think so."
 
-Being determined on my course, I now affected a desire to see life iu
+Being determined on my course, I now affected a desire to see life in
 some other form, and observe mankind under some other aspect. To this
 he assented freely, and, after a few moments' discussion, suddenly
 bethought him of a letter he had received that very morning. "You
@@ -19997,6 +20140,7 @@ In less than a fortnight after the interview I have just recorded, I
 received a letter from De Minérale, enclosing another, addressed
 to himself, and whose royal seal at once proclaimed the writer. De
 Minérale's was only a few lines, thus:--
+
 
      "Dear C,--I forward you the 'Duke's' reply to my note, by
      which you will see that we have been in time, and fortunate
@@ -20047,7 +20191,6 @@ Minérale's was only a few lines, thus:--
 
      "You call him 'Le Comte de Creganne,' and so I have written
      it for the Minister: is this right?"
-
 
 I read and re-read the letter till I knew every sentence of it by heart;
 and then, dressing myself with a degree of care the importance of the
@@ -20115,7 +20258,7 @@ which my future achievements were pictured in a vein half-flattering,
 half-satirical,--that peculiar eau sucré, with a squeeze of lemon, that
 only a Frenchman knows how to concoct!
 
-[Illustration: 571-222]
+
 
 During one of my most triumphant moments, when two of the very prettiest
 actresses of the "Odéon" were placing a laurel crown upon my brow,
@@ -20254,7 +20397,7 @@ climate, of course were not without incidents to diversify and interest
 them; and although I could probably select more passages of curious
 adventure from this than from any other portion of my life, I am forced
 to pass by all in silence; and for these reasons: first, the narrative
-would lead me to a greater length than I have auy right to presume upon
+would lead me to a greater length than I have any right to presume upon
 in this history, or to believe that my reader would be a willing party
 to; and, secondly, the recital would entail the acquaintance with a
 vast variety of characters, not one of whom ever again occurred to me
@@ -20282,7 +20425,7 @@ he has little subsequent connection? But enough of this; I have said
 sufficient for apology to those who see the difficulty of the case. To
 those who do not, I have been prolix without being profitable.
 
-[Illustration: 576-227]
+
 
 Of Africa, then, I must not speak. Three years of its burning sun and
 parched soil--the life of bivouac and battle--had done the work of ten
@@ -20399,7 +20542,7 @@ I was inventing a personage, for that no such name existed among the
 nobility of his land. The dignity may be recognized in Mexico," added
 he, "but the Mexician Minister is equally perverse, and disclaims having
 so much as heard of you. I spoke of your wealth and great treasures,
-and they actually were rude enough to laugh,--no at you, sir, don't be
+and they actually were rude enough to laugh,--not at you, sir, don't be
 angry,--but at _me_. The Spanish Ambassador, indeed, said that nothing
 was more common than for Carlist agents of inferior station to assume
 styles and titles which might entitle them to greater consideration if
@@ -20417,7 +20560,7 @@ for reparation; and there, the signature of your master the King, at
 the foot of it. You cannot be ignorant of the hand, nor can you dare to
 pretend it is a forgery."
 
-If my insulting language had brought the flush of auger to his cheek,
+If my insulting language had brought the flush of anger to his cheek,
 this "damning proof" completely overcame all his presence of mind,
 and left him in a state of confusion and perplexity that any one, save
 myself, must have pitied.
@@ -20438,11 +20581,11 @@ The diplomatist watched me narrowly throughout this brief proceeding,
 and I half feared that he had seen through my stratagem, as he said,
 "Well, Count, as not a shadow of doubt can exist now as to the authentic
 character of your demand, the best course will be to have a personal
-interview with the Spanish Ambassador. He 'receives' this evening at
-his palace, and, with your leave, we will wait upon him together. Of
-course the time and place will not admit of any discussion of this
-claim, but you can be presented,--a necessary preliminary to the
-intercourse that will follow."
+interview with the Spanish Ambassador. He 'receives' this evening at his
+palace, and, with your leave, we will wait upon him together. Of course
+the time and place will not admit of any discussion of this claim, but
+you can be presented,--a necessary preliminary to the intercourse that
+will follow."
 
 This all looked marvellously like a trap; but as any doubt or indecision
 now would be ruin, I affected to be much pleased with the proposal, and
@@ -20491,7 +20634,7 @@ my reach, merely by length of life and the ordinary routine of events!
 And yet all this must I jeopardize for the sake of gold! And now
 what course should I adopt? My whole philosophy through life had
 been comprised in that one word which summed up all Marshal Blucher's
-"tactics,"--"Forwards!"nIt had sufficed for me in many a trying
+"tactics,"--"Forwards!" It had sufficed for me in many a trying
 emergency,--it had cut the black knot of many a tangle;--should I not
 still abide by it? Of course. This was not the moment to abandon the
 bold policy.
@@ -20574,10 +20717,10 @@ the lacquey continued to call my name aloud, with what I deemed a most
 needless importunity of announcement. At last he ceased, leaving me to
 the enjoyment of a momentary tranquillity in mixing with the crowd. It
 was indeed but momentary; for the young attaché had made his way through
-the throng, and whispered in my ear, "Let us retire this way, and I 'll
-lead you by another passage, otherwise you will run a great risk of
-never being presented to the Marchesa." I could have told him that I
-would have borne even this misfortune like a man; but I did not, and
+the throng, and whispered in my ear, "Let us retire this way, and I
+'ll lead you by another passage, otherwise you will run a great risk
+of never being presented to the Marchesa." I could have told him that
+I would have borne even this misfortune like a man; but I did not, and
 merely followed him as he led the way through a suite of rooms, of which
 only one was occupied, and that by a card-party.
 
@@ -20663,8 +20806,6 @@ unreal. How we did bewail the death of some, rejoice over the good
 fortune of other "dear, dear friends" who had never breathed! and with
 what pleasant laughter we remembered eccentricities and oddities that
 once used to amuse us so much!
-
-[Introduction: 587-238]
 
 Never can I forget the look of astonishment of the young attache as he
 came up and found me seated on the ottoman beside the Marchesa, with
@@ -20779,8 +20920,8 @@ well understood." My blood ran cold at this threat, for I remembered the
 accusation which hung over her, in Mexico. She saw what was passing in
 my mind, and added, "You have nothing to fear; we shall be good friends
 while you remain here; but that time must be brief. I cannot, I will
-not, live a life of terror; a moment of impatience, an unguarded word, a
-hasty expression of yours, might compromise me, and then--When can you
+not, live a life of terror; a moment of impatience, an unguarded word,
+a hasty expression of yours, might compromise me, and then--When can you
 leave Naples?"
 
 "To-morrow--to-day, if you desire it."
@@ -20870,7 +21011,7 @@ not escape her, and with a voice, every syllable of which struck deep
 into my heart, she said, "Is this secret your own, or have you ever
 revealed it to another?"
 
-"I have never told it, nor, Indeed, till now, was the full mystery known
+"I have never told it, nor, indeed, till now, was the full mystery known
 to myself."
 
 These few words, which served to confirm her own wavering terrors, at
@@ -21055,7 +21196,7 @@ upon the health, and sapping the energies of the mind. Such was not
 my case here; I waited like one who loiters in some delicious garden,
 surrounded with blooming flowers and sweet odors. The delays and
 procrastinations of cabinets--for which the most profuse apologies
-were made--I bore with a degree of calm equanimity that won f or me
+were made--I bore with a degree of calm equanimity that won for me
 the appellation of a most finished gentleman; and thus was I almost
 unconsciously perfecting myself in that grand element of breeding whose
 triumph is "impassiveness."
@@ -21123,8 +21264,8 @@ are instructed to receive the Count de Cregano with every honor and
 distinction, affording him every protection, and facilitating him in the
 prosecution of any project in which he may be interested."
 
-This speech, delivered in a very imposing manner, was followed by
-a round of felicitation from the assembled company the Marchesa offering
+This speech, delivered in a very imposing manner, was followed by a
+round of felicitation from the assembled company the Marchesa offering
 me her hand in congratulation, and whispering the words, "How soon?"
 
 "To-morrow, if I must," replied I, sorrowfully.
@@ -21164,15 +21305,15 @@ the petty princes of those countries; and all were vying who should
 introduce something new and unknown to the rest, when, suddenly, the
 distant sound of the church bells of the city was borne along the water,
 announcing the "Vinti quatro," as it is called,--the hour of evening
-prayer. In a moment a sudden air o-' devotional seriousness spread
-itself over the company, and most bent their heads in pious reverence
-while they recited to themselves the words of the "Angelus." If there
-seemed, to the sense of English Protestantism, something strange and
-unnatural in this great revulsion, there was a degree of earnestness and
-sincerity in the features of the worshippers that showed their piety
-to be unfeigned; and here I might leave the theme, were it not for an
-incident which, taking place at the same moment, will remain forever
-associated in my mind with that brief interval of prayer.
+prayer. In a moment a sudden air of devotional seriousness spread itself
+over the company, and most bent their heads in pious reverence while
+they recited to themselves the words of the "Angelus." If there seemed,
+to the sense of English Protestantism, something strange and unnatural
+in this great revulsion, there was a degree of earnestness and sincerity
+in the features of the worshippers that showed their piety to be
+unfeigned; and here I might leave the theme, were it not for an incident
+which, taking place at the same moment, will remain forever associated
+in my mind with that brief interval of prayer.
 
 The hour of sunset, or, as the Neapolitans term it, the "Vinti quatro,"
 is that in which the galley-slaves, employed from dawn of day at convict
@@ -21246,8 +21387,8 @@ finally said, that as he had obtained the permission to learn all he
 could of the condition of the convicts, he was determined not to depart
 without experiencing in his own person the amount of labor exacted from
 them. 'You shall chain me to that fellow in the bow of the boat,' said
-he, 'for I have my doubts that this same punishment is not equal to
-what our own sailors perform every day, as a mere duty.'
+he, 'for I have my doubts that this same punishment is not equal to what
+our own sailors perform every day, as a mere duty.'
 
 "I need not dwell upon the arguments he used, and the reason he pressed;
 and although I have not heard it, I have little doubt that bribery
@@ -21257,9 +21398,9 @@ the other's right.
 
 "His face became almost purple as he grasped the oar, and his eyes
 glared fiercely round upon his fellow-laborer, like the red and staring
-orbs of a wild beast. 'So dreadful was the expression of his face,'
-said the steersman, 'that I believed him to be insane; and a shocking
-fear of evil consequences shot through me for having yielded to him.'
+orbs of a wild beast. 'So dreadful was the expression of his face,' said
+the steersman, 'that I believed him to be insane; and a shocking fear of
+evil consequences shot through me for having yielded to him.'
 
 "I at once called out to the crew to ship their oars, determining to
 make him resume his place beside me. The order was obeyed by the bow-oar
@@ -21422,7 +21563,7 @@ Some men are your slaves because your cook is unrivalled, or your cellar
 incomparable: others look up to you because your equipages exhibit an
 elegance with which none can vie; because your thoroughbreds are larger,
 show more bone, and carry the highest condition. Others, again, revere
-you for your Vandykes and your Titians, your Rem brandts and Murillos,
+you for your Vandykes and your Titians, your Rembrandts and Murillos,
 your illuminated missals, your antique marbles. To every section of
 society you can exhibit some peculiar and special temptation, which, in
 their blind admiration, they refer to as an attribute of yourself.
@@ -21458,7 +21599,7 @@ feel like a great actor, for whom the house is already impatient; nor
 is the curtain to remain longer down. You are scarcely an hour in
 Paris when your visitors began to call. Here are cards without
 number,--officers in high command, courtiers, ministers, and
-aides-decamp of those whose rank precludes the first visit. The "place"
+aides-de-camp of those whose rank precludes the first visit. The "place"
 is like a fair, with its crush of equipages, the hotel is actually
 besieged. Every language of Europe is heard within its "porte-cochère,"
 and your own chasseur is overwhelmed with questionings enough to drive
@@ -21606,10 +21747,9 @@ This was an observation that gave me some uneasiness, and I hastened off
 to the Duc de St. Cloud, whose kindness had always admitted me to the
 most open intercourse.
 
-"It is quite true, Creganne," said he, "we all remarked that you
-were coquetting with the 'vieux,'--the old ones of the Faubourg; and
-although _I_ had never any misgivings about you, _others_ were less
-charitable."
+"It is quite true, Creganne," said he, "we all remarked that you were
+coquetting with the 'vieux,'--the old ones of the Faubourg; and although
+_I_ had never any misgivings about you, _others_ were less charitable."
 
 "What is to be done, then?" said I, in my distress at the bare thought
 of seeming ungrateful.
@@ -21725,12 +21865,12 @@ looked in disrepair. There were few carriages, nothing deserving the
 name of equipage,--none of that stir and movement which characterize a
 capital. It all looked like a place where people dwelt to wear out
 their old houses and old garments, and to leave both behind them when
-no longer wearable. Windows mended with paper, pantaloon? patched with
+no longer wearable. Windows mended with paper, pantaloons patched with
 party-colored cloth, "shocking bad hats," mangy car-drivers, and great
 troops of beggars of every age and walk of mendicancy, were met with
-even iu the best quarters; and with all these signs of poverty and
+even in the best quarters; and with all these signs of poverty and
 decay, there was an air of swaggering recklessness in every one that was
-particularly striking All were out of temper with England and
+particularly striking. All were out of temper with England and
 English rule; and "Ireland for the Irish" was becoming a popular cant
 phrase,--pretty much on the same principle that blacklegs extinguish the
 lights when luck goes against them, and have a scramble for "the bank"
@@ -21915,50 +22055,6 @@ swimming in tears--was Donna Maria! Neither of us spoke, neither of us
 could speak!--and while her eyes wandered from my face to the several
 decorations I wore upon my breast, and I watched with agonizing
 intensity the look of terror she threw down the table towards the place
-where her uncle was seated, I with a small black skull-cap, a stooping
-figure, and a great gold cross, which, I concluded, represented the holy
-man; something in black, with a very long veil descending from the back
-of her head, being as evidently the niece.
-
-A few formal introductions were gone through in clever pantomime, dinner
-was announced, and the company paired off in all stateliness, while
-the host, seizing my arm, led me across the room, and in a few words
-presented me to the fair widow, who courtesied, and accepted my arm, and
-away we marched in that solemn procession by which people endeavor to
-thaw the ice of first acquaintance.
-
-"Your first visit to Ireland, I believe, Señhora?" said I, in Spanish,
-wishing to say something as we walked along.
-
-"Yes, Señhor, and yours also, I understand?" replied she.
-
-"Not exactly," muttered I, taken too suddenly to recover myself; "when
-I was a boy, a mere child--"I here by accident employed a Mexican
-word almost synonymous with the French "gamin." She started, and said
-eagerly, "How! you have been in Mexico?"
-
-"Yes, Señhora, I have passed some years in that country."
-
-"I am a Mexican," cried she, delightedly. "Tell me, where have you
-traveiled, and whom did you know there?"
-
-"T have travelled a good deal, but scarcely knew any one," replied I.
-"At Guajuaqualla--"
-
-"Oh, were you there? My own neighborhood,-my home," exclaimed she,
-fervidly.
-
-"Then probably you know Don Estaban Olares," said I.
-
-"My own father!"
-
-I turned round; our eyes met; it was just at the very entrance of the
-dinner-room, where a blaze of light was shed on everything, and there
-upon my arm--her hand trembling, her cheek colorless, and her eyes
-swimming in tears--was Donna Maria! Neither of us spoke, neither of us
-could speak!--and while her eyes wandered from my face to the several
-decorations I wore upon my breast, and I watched with agonizing
-intensity the look of terror she threw down the table towards the place
 where her uncle was seated, I saw plainly that some painful mystery was
 struggling within her mind.
 
@@ -22068,7 +22164,7 @@ unintelligible piece of business, in either case; then come the
 after which, the charge and the verdict. In my case it was a favorable
 one, and I was almost out of my senses with delight.
 
-[Illustration:   final ]
+
 
 The Bishop, with whom my acquaintanceship had never betrayed my secret,
 was to leave Ireland in a few days, and the Prince, to whom I told
@@ -22139,8 +22235,8 @@ Government had done wid him, they transported him too!"
 
 "Had he any children, this same Con?"
 
-"He had a brat of a boy that was drowned at 'say,' they tell me; but
-I'd never believe it was that way that Con Cregan's son was to die!"
+"He had a brat of a boy that was drowned at 'say,' they tell me; but I'd
+never believe it was that way that Con Cregan's son was to die!"
 
 I need scarcely remark that I saw no inducement for prolonging this
 conversation, wherein all the facts quoted were already familiar,
@@ -22149,7 +22245,7 @@ agreeably occupied in discussing the eggs and milk the old lady had
 placed before me, when the door opened, and the curate entered. A
 deep cavernous cough and a stooped figure announcing the signs of some
 serious chest disease, were all I had time to observe; when, with the
-politeness of a gentleman, he advanced toward» me. The first sound of
+politeness of a gentleman, he advanced towards me. The first sound of
 his voice was enough, and I cried out, "Lyndsay! my oldest and best
 friend,--don't you know me?"
 
@@ -22245,168 +22341,162 @@ THE END.
 
 
 
-
-
-
-End of Project Gutenberg's Confessions Of Con Cregan, by Charles James Lever
+End of Project Gutenberg's Confessions Of Con Cregan, by Charles James
+Lever
 
 *** END OF THIS PROJECT GUTENBERG EBOOK CONFESSIONS OF CON CREGAN ***
 
-***** This file should be named 32060-8.txt or 32060-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/3/2/0/6/32060/
+***** This file should be named 32060-8.txt or 32060-8.zip ***** This
+and all associated files of various formats will be found in:        http://www.gutenberg.org/3/2/0/6/32060/
 
 Produced by David Widger
 
-Updated editions will replace the previous one--the old editions
-will be renamed.
+Updated editions will replace the previous one--the old editions will be
+renamed.
 
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
+Creating the works from public domain print editions means that no one
+owns a United States copyright in these works, so the Foundation (and
+you!) can copy and distribute it in the United States without permission
+and without paying copyright royalties. Special rules, set forth in
+the General Terms of Use part of this license, apply to copying and
+distributing Project Gutenberg-tm electronic works to protect the
+PROJECT GUTENBERG-tm concept and trademark. Project Gutenberg is a
+registered trademark, and may not be used if you charge for the eBooks,
+unless you receive specific permission. If you do not charge anything
+for copies of this eBook, complying with the rules is very easy. You
+may use this eBook for nearly any purpose such as creation of derivative
+works, reports, performances and research. They may be modified and
+printed and given away--you may do practically ANYTHING with public
+domain eBooks. Redistribution is subject to the trademark license,
+especially commercial redistribution.
 
 
 
 *** START: FULL LICENSE ***
 
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+THE FULL PROJECT GUTENBERG LICENSE PLEASE READ THIS BEFORE YOU
+DISTRIBUTE OR USE THIS WORK
 
 To protect the Project Gutenberg-tm mission of promoting the free
 distribution of electronic works, by using or distributing this work
 (or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License (available with this file or online at
 http://gutenberg.org/license).
 
 
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+Section 1. General Terms of Use and Redistributing Project Gutenberg-tm
 electronic works
 
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree
+to and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all the
+terms of this agreement, you must cease using and return or destroy all
+copies of Project Gutenberg-tm electronic works in your possession.
 If you paid a fee for obtaining a copy of or access to a Project
 Gutenberg-tm electronic work and you do not agree to be bound by the
 terms of this agreement, you may obtain a refund from the person or
 entity to whom you paid the fee as set forth in paragraph 1.E.8.
 
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
+1.B. "Project Gutenberg" is a registered trademark. It may only be used
+on or associated in any way with an electronic work by people who agree
+to be bound by the terms of this agreement. There are a few things that
+you can do with most Project Gutenberg-tm electronic works even without
+complying with the full terms of this agreement. See paragraph 1.C
+below. There are a lot of things you can do with Project Gutenberg-tm
+electronic works if you follow the terms of this agreement and help
+preserve free future access to Project Gutenberg-tm electronic works.
+See paragraph 1.E below.
 
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+1.C. The Project Gutenberg Literary Archive Foundation ("the Foundation"
 or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
+Gutenberg-tm electronic works. Nearly all the individual works in
+the collection are in the public domain in the United States. If an
+individual work is in the public domain in the United States and you
+are located in the United States, we do not claim a right to prevent
+you from copying, distributing, performing, displaying or creating
+derivative works based on the work as long as all references to Project
+Gutenberg are removed. Of course, we hope that you will support the
+Project Gutenberg-tm mission of promoting free access to electronic
+works by freely sharing Project Gutenberg-tm works in compliance with
+the terms of this agreement for keeping the Project Gutenberg-tm name
+associated with the work. You can easily comply with the terms of this
+agreement by keeping this work in the same format with its attached
+full Project Gutenberg-tm License when you share it without charge with
+others.
 
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are in
+a constant state of change. If you are outside the United States, check
 the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
+before downloading, copying, displaying, performing, distributing
+or creating derivative works based on this work or any other Project
+Gutenberg-tm work. The Foundation makes no representations concerning
 the copyright status of any work in any country outside the United
 States.
 
-1.E.  Unless you have removed all references to Project Gutenberg:
+1.E. Unless you have removed all references to Project Gutenberg:
 
-1.E.1.  The following sentence, with active links to, or other immediate
+1.E.1. The following sentence, with active links to, or other immediate
 access to, the full Project Gutenberg-tm License must appear prominently
 whenever any copy of a Project Gutenberg-tm work (any work on which the
 phrase "Project Gutenberg" appears, or with which the phrase "Project
 Gutenberg" is associated) is accessed, displayed, performed, viewed,
 copied or distributed:
 
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
+This eBook is for the use of anyone anywhere at no cost and with almost
+no restrictions whatsoever. You may copy it, give it away or re-use
+it under the terms of the Project Gutenberg License included with this
+eBook or online at www.gutenberg.org
 
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+1.E.2. If an individual Project Gutenberg-tm electronic work is derived
 from the public domain (does not contain a notice indicating that it is
 posted with permission of the copyright holder), the work can be copied
 and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
+or charges. If you are redistributing or providing access to a work with
+the phrase "Project Gutenberg" associated with or appearing on the work,
+you must comply either with the requirements of paragraphs 1.E.1 through
+1.E.7 or obtain permission for the use of the work and the Project
+Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or 1.E.9.
 
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
 with the permission of the copyright holder, your use and distribution
 must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
+terms imposed by the copyright holder. Additional terms will be linked
 to the Project Gutenberg-tm License for all works posted with the
 permission of the copyright holder found at the beginning of this work.
 
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
 License terms from this work, or any files containing a part of this
 work or any other work associated with Project Gutenberg-tm.
 
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
+1.E.5. Do not copy, display, perform, distribute or redistribute
+this electronic work, or any part of this electronic work, without
 prominently displaying the sentence set forth in paragraph 1.E.1 with
 active links or immediate access to the full terms of the Project
 Gutenberg-tm License.
 
-1.E.6.  You may convert to and distribute this work in any binary,
+1.E.6. You may convert to and distribute this work in any binary,
 compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
+word processing or hypertext form. However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other
+than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the full
+Project Gutenberg-tm License as specified in paragraph 1.E.1.
 
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
+1.E.7. Do not charge a fee for access to, viewing, displaying,
 performing, copying or distributing any Project Gutenberg-tm works
 unless you comply with paragraph 1.E.8 or 1.E.9.
 
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
+1.E.8. You may charge a reasonable fee for copies of or providing access
+to or distributing Project Gutenberg-tm electronic works provided that
 
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
+- You pay a royalty fee of 20% of the gross profits you derive from     the use of Project Gutenberg-tm works calculated using the method
      you already use to calculate your applicable taxes.  The fee is
      owed to the owner of the Project Gutenberg-tm trademark, but he
      has agreed to donate royalties under this paragraph to the
@@ -22418,84 +22508,79 @@ that
      address specified in Section 4, "Information about donations to
      the Project Gutenberg Literary Archive Foundation."
 
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
+- You provide a full refund of any money paid by a user who notifies     you in writing (or by e-mail) within 30 days of receipt that s/he
      does not agree to the terms of the full Project Gutenberg-tm
      License.  You must require such a user to return or
      destroy all copies of the works possessed in a physical medium
      and discontinue all use of and all access to other copies of
      Project Gutenberg-tm works.
 
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
+- You provide, in accordance with paragraph 1.F.3, a full refund of any     money paid for a work or a replacement copy, if a defect in the
      electronic work is discovered and reported to you within 90 days
      of receipt of the work.
 
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
+- You comply with all other terms of this agreement for free     distribution of Project Gutenberg-tm works.
 
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
+1.E.9. If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set forth
+in this agreement, you must obtain permission in writing from both the
+Project Gutenberg Literary Archive Foundation and Michael Hart, the
+owner of the Project Gutenberg-tm trademark. Contact the Foundation as
+set forth in Section 3 below.
 
 1.F.
 
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
+1.F.1. Project Gutenberg volunteers and employees expend considerable
 effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
+public domain works in creating the Project Gutenberg-tm collection.
+Despite these efforts, Project Gutenberg-tm electronic works, and the
+medium on which they may be stored, may contain "Defects," such as, but
+not limited to, incomplete, inaccurate or corrupt data, transcription
+errors, a copyright or other intellectual property infringement, a
+defective or damaged disk or other medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
 
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
 of Replacement or Refund" described in paragraph 1.F.3, the Project
 Gutenberg Literary Archive Foundation, the owner of the Project
 Gutenberg-tm trademark, and any other party distributing a Project
 Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
+liability to you for damages, costs and expenses, including legal fees.
+YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY,
+BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE PROVIDED IN
+PARAGRAPH F3. YOU AGREE THAT THE FOUNDATION, THE TRADEMARK OWNER, AND
+ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE LIABLE TO YOU FOR
+ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES
+EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGE.
 
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a defect
+in this electronic work within 90 days of receiving it, you can receive
+a refund of the money (if any) you paid for it by sending a written
+explanation to the person you received the work from. If you received
+the work on a physical medium, you must return the medium with your
+written explanation. The person or entity that provided you with the
+defective work may elect to provide a replacement copy in lieu of a
+refund. If you received the work electronically, the person or entity
 providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
+receive the work electronically in lieu of a refund. If the second copy
 is also defective, you may demand a refund in writing without further
 opportunities to fix the problem.
 
-1.F.4.  Except for the limited right of replacement or refund set forth
+1.F.4. Except for the limited right of replacement or refund set forth
 in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
 WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
 
-1.F.5.  Some states do not allow disclaimers of certain implied
+1.F.5. Some states do not allow disclaimers of certain implied
 warranties or the exclusion or limitation of certain types of damages.
 If any disclaimer or limitation set forth in this agreement violates the
 law of the state applicable to this agreement, the agreement shall be
 interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
+the applicable state law. The invalidity or unenforceability of any
 provision of this agreement shall not void the remaining provisions.
 
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation,
+the trademark owner, any agent or employee of the Foundation, anyone
 providing copies of Project Gutenberg-tm electronic works in accordance
 with this agreement, and any volunteers associated with the production,
 promotion and distribution of Project Gutenberg-tm electronic works,
@@ -22506,106 +22591,108 @@ work, (b) alteration, modification, or additions or deletions to any
 Project Gutenberg-tm work, and (c) any Defect you cause.
 
 
-Section  2.  Information about the Mission of Project Gutenberg-tm
+Section 2. Information about the Mission of Project Gutenberg-tm
 
 Project Gutenberg-tm is synonymous with the free distribution of
 electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
+including obsolete, old, middle-aged and new computers. It exists
 because of the efforts of hundreds of volunteers and donations from
 people in all walks of life.
 
 Volunteers and financial support to provide volunteers with the
 assistance they need, are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
+goals and ensuring that the Project Gutenberg-tm collection will remain
+freely available for generations to come. In 2001, the Project Gutenberg
+Literary Archive Foundation was created to provide a secure and
+permanent future for Project Gutenberg-tm and future generations. To
+learn more about the Project Gutenberg Literary Archive Foundation and
+how your efforts and donations can help, see Sections 3 and 4 and the
+Foundation web page at http://www.pglaf.org.
 
 
-Section 3.  Information about the Project Gutenberg Literary Archive
+Section 3. Information about the Project Gutenberg Literary Archive
 Foundation
 
 The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+501(c)(3) educational corporation organized under the laws of the state
+of Mississippi and granted tax exempt status by the Internal Revenue
+Service. The Foundation's EIN or federal tax identification number
+is 64-6221541. Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising. Contributions to the Project Gutenberg
 Literary Archive Foundation are tax deductible to the full extent
 permitted by U.S. federal laws and your state's laws.
 
 The Foundation's principal office is located at 4557 Melan Dr. S.
 Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
+throughout numerous locations. Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887,
+email business@pglaf.org. Email contact links and up to date contact
+information can be found at the Foundation's web site and official page
+at http://pglaf.org
 
-For additional contact information:
-     Dr. Gregory B. Newby
+For additional contact information:     Dr. Gregory B. Newby
      Chief Executive and Director
      gbnewby@pglaf.org
 
 
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
+Section 4. Information about Donations to the Project Gutenberg Literary
+Archive Foundation
 
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
+Project Gutenberg-tm depends upon and cannot survive without wide spread
+public support and donations to carry out its mission of increasing
+the number of public domain and licensed works that can be freely
+distributed in machine readable form accessible by the widest array
+of equipment including outdated equipment. Many small donations ($1 to
+$5,000) are particularly important to maintaining tax exempt status with
+the IRS.
 
 The Foundation is committed to complying with the laws regulating
 charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
+States. Compliance requirements are not uniform and it takes a
 considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit http://pglaf.org
 
 While we cannot and do not solicit contributions from states where we
 have not met the solicitation requirements, we know of no prohibition
 against accepting unsolicited donations from donors in such states who
 approach us with offers to donate.
 
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
+International donations are gratefully accepted, but we cannot make any
+statements concerning tax treatment of donations received from outside
+the United States. U.S. laws alone swamp our small staff.
 
 Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
+methods and addresses. Donations are accepted in a number of other ways
+including checks, online payments and credit card donations. To donate,
+please visit: http://pglaf.org/donate
 
 
-Section 5.  General Information About Project Gutenberg-tm electronic
+Section 5. General Information About Project Gutenberg-tm electronic
 works.
 
 Professor Michael S. Hart is the originator of the Project Gutenberg-tm
 concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
+with anyone. For thirty years, he produced and distributed Project
 Gutenberg-tm eBooks with only a loose network of volunteer support.
 
 
 Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
+editions, all of which are confirmed as Public Domain in the U.S. unless
+a copyright notice is included. Thus, we do not necessarily keep eBooks
+in compliance with any particular paper edition.
 
 
 Most people start at our Web site which has the main PG search facility:
 
      http://www.gutenberg.org
 
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
+This Web site includes information about Project Gutenberg-tm, including
+how to make donations to the Project Gutenberg Literary Archive
+Foundation, how to help produce our new eBooks, and how to subscribe to
+our email newsletter to hear about new eBooks.
+
+
+
